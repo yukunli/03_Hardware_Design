@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AD9833_OUT1 Pin=U3-1
+Added Component: Designator=P2(HDR1X3)
+Added Pin To Net: NetName=AD9833_IN1 Pin=P2-1
+Added Pin To Net: NetName=AD9833_OUT2 Pin=P2-2
+Added Pin To Net: NetName=AD9833_IN2 Pin=P2-3
+Added Pin To Net: NetName=AD9833_IN2 Pin=U3-1
+Added Member To Class: ClassName=AD9833_drive Member=Component P2 Header 2

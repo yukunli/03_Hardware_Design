@@ -1,0 +1,6 @@
+Added Component: Designator=D0(LED_SML2258)
+Added Pin To Net: NetName=NetD0_A1 Pin=D0-A1
+Added Pin To Net: NetName=NetD0_A2 Pin=D0-A2
+Added Pin To Net: NetName=RED_IND Pin=D0-K1
+Added Pin To Net: NetName=BLUD_IND Pin=D0-K2
+Added Member To Class: ClassName=AD9833_drive Member=Component D0 SML5228U1W

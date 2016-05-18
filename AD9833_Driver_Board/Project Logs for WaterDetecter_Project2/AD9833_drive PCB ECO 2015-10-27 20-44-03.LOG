@@ -1,0 +1,9 @@
+Added Component: Designator=U0(X-CPX75)
+Added Pin To Net: NetName=AGND Pin=H2-73
+Added Pin To Net: NetName=AGND Pin=H2-74
+Added Pin To Net: NetName=AGND Pin=Head1-73
+Added Pin To Net: NetName=AGND Pin=Head1-74
+Added Pin To Net: NetName=DGND Pin=U0-2
+Added Pin To Net: NetName=NetR20_1 Pin=U0-3
+Added Pin To Net: NetName=DVDD3.3 Pin=U0-4
+Added Member To Class: ClassName=AD9833_drive Member=Component U0 MCLK

@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [WaterDetecter_Project2.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 20:03:23 On 2015/11/1

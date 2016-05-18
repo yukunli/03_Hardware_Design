@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CS1 Pin=Head1-1
+Removed Pin From Net: NetName=CS2 Pin=Head1-2
+Removed Pin From Net: NetName=CS3 Pin=Head1-3
+Removed Pin From Net: NetName=CLK Pin=Head1-4
+Removed Pin From Net: NetName=SIMO Pin=Head1-5
+Removed Pin From Net: NetName=RED_IND Pin=Head1-6
+Removed Pin From Net: NetName=BLUD_IND Pin=Head1-7
+Added Pin To Net: NetName=CS1 Pin=Head1-2
+Added Pin To Net: NetName=CS2 Pin=Head1-4
+Added Pin To Net: NetName=CS3 Pin=Head1-6
+Added Pin To Net: NetName=CLK Pin=Head1-8
+Added Pin To Net: NetName=SIMO Pin=Head1-10
+Added Pin To Net: NetName=RED_IND Pin=Head1-12
+Added Pin To Net: NetName=BLUD_IND Pin=Head1-14
