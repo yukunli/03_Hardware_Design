@@ -1,0 +1,32 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~WaterDetecter_Project2.PrjPcb|ReportField=ProjectFullPath~E:\01_Master_Project\Water_Detection_Project\03_Hareware_Design\AD9833_Driver_Board\WaterDetecter_Project2.PrjPcb|ReportField=Title~Bill of Materials For Project [WaterDetecter_Project2.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~63|ReportField=ReportTime~12:09:59|ReportField=ReportDate~2015/12/26|ReportField=ReportDateTime~2015/12/26 12:09:59|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/12/26|ReportField=CurrentTime~12:09:53|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\01_Master_Project\Water_Detection_Project\03_Hareware_Design\AD9833_Driver_Board\AD9833_drive.SchDoc|ReportField=DocumentName~AD9833_drive.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/11/9|ReportField=Organization~|ReportField=ProjectName~WaterDetecter_Project2.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~WaterDetecter_Project2.PrjPcb|ReportField=DataSourceFullPath~E:\01_Master_Project\Water_Detection_Project\03_Hareware_Design\AD9833_Driver_Board\WaterDetecter_Project2.PrjPcb
+Cap|Capacitor|C20, C22, C24, C25, C26, C27, C30, C31, C32, C33, C40, C41, C42, C44|0805|14|0.01u, 0.1u, 0.1uf, 10nf, 10uf, 22p
+Cap2|Capacitor|C21, C23|0805|2|10uF
+Cap Pol1|Polarized Capacitor (Radial)|C43|0805|1|100pF
+SML5228U1W||D0|LED_0603双色|1|
+Alarm|Typical INFRARED GaAs LED|D11|LED_0805|1|
+1N5817|Diode|D40|DIODE-SMA|1|
+Head60||H2|Head_60pin|1|
+Head_80||Head1|2.0mm|1|
+Header 7|Header, 7-Pin|P0|HDR1X7|1|
+测试点||P00, P01, P03, P04, P05, P06, P30||7|
+Header 2|Header, 3-Pin|P2|HDR1X3|1|
+Header 3|Header, 3-Pin|P4|HDR1X3|1|
+精密电阻 20r|Header, 2-Pin|P4.0|RX70-0.25W|1|
+Header 3H|Header, 3-Pin, Right Angle|P5|HDR1X3|1|
+Header 3|Header, 4-Pin|P6|HDR1X4|1|
+IRF530|N-Channel Power MOSFET|Q41|TIP122|1|
+TIP122|NPN Darlington Bipolar Transistor|Q42|TIP122|1|
+100||R03|0805|1|
+RPot|Potentiometer|R04|VR5|1|10k
+260R||R11|0805|1|
+75R||R12|0805|1|
+330||R13|0805|1|
+0R||R14|0805|1|
+Res2|Resistor|R20, R21, R30, R31, R32, R33, R40, R41, R42, R43, R44, R45, R46|0805|13|0R, 1K, 5R, 10K, 33K, 33K,低温漂, 100R
+1K,15mW||RS|0805|1|
+MCLK|有源晶振1MHZ ,5V|U0|X-CPX75|1|
+AD9833|波形发生器|U1|MSOP_AD9833_10N|1|
+MPY634||U2|DIP-16-KEY|1|
+AD633||U3|DIP-8|1|
+OPA07|Low-Noise, Precision, High-Speed Operational Amplifier (Avcl >= 5)|U4|SO-8-N|1|
+LM385-1.2||U?|TO-92|1|

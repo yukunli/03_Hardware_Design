@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=AD9833_OUT2 Pin=P6-1
+Added Pin To Net: NetName=AD9833_OUT1 Pin=P6-1

@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=AD9833_OUT1 Pin=P2-2
+Change Net Name : Old Net Name=AD9833_OUT1 New Net Name=AD9833_OUT

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AV-12 Pin=Head1-66
+Removed Pin From Net: NetName=AV+12 Pin=Head1-68
+Added Component: Designator=R14(0805)
+Added Pin To Net: NetName=DGND Pin=R14-1
+Added Pin To Net: NetName=AGND Pin=R14-2
+Added Member To Class: ClassName=AD9833_drive Member=Component R14 0R

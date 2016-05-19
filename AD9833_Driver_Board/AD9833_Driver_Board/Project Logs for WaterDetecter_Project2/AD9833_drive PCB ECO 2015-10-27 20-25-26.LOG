@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AGND Pin=H2-73
+Removed Pin From Net: NetName=AGND Pin=H2-74
+Removed Pin From Net: NetName=AGND Pin=Head1-73
+Removed Pin From Net: NetName=AGND Pin=Head1-74
+Added Pin To Net: NetName=NetH2_74 Pin=H2-74
+Added Pin To Net: NetName=NetH2_74 Pin=Head1-74
+Added Net: Name=NetH2_74

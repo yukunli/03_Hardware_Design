@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=1.2VREF Pin=P00-0
+Added Pin To Net: NetName=SET_OFF Pin=P01-0
+Added Pin To Net: NetName=VDD5.0 Pin=P03-0
+Added Pin To Net: NetName=DVDD3.3 Pin=P04-0
+Added Pin To Net: NetName=AGND Pin=P06-0
+Added Pin To Net: NetName=NetP4.0_1 Pin=P30-0
+Added Pin To Net: NetName=NetP4.0_1 Pin=R42-2
