@@ -1,0 +1,4 @@
+Added Component: Designator=C042(4*4.5 ÌùÆ¬µç½âµçÈİ)
+Added Pin To Net: NetName=AGND Pin=C042-1
+Added Pin To Net: NetName=AV-12 Pin=C042-2
+Added Member To Class: ClassName=01SignalDetect Member=Component C042 Cap Pol1

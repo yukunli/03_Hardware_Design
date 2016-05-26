@@ -1,0 +1,18 @@
+Added Component: Designator=R20.0(0805)
+Added Component: Designator=R21.0(0805)
+Added Component: Designator=R22.0(0805)
+Added Pin To Net: NetName=NetC20_1 Pin=R20.0-2
+Added Pin To Net: NetName=NetC22_1 Pin=R21.0-2
+Added Pin To Net: NetName=NetC24_1 Pin=R22.0-2
+Added Pin To Net: NetName=NetR20.0_1 Pin=R20.0-1
+Added Pin To Net: NetName=NetR20.0_1 Pin=R200-2
+Added Net: Name=NetR20.0_1
+Added Pin To Net: NetName=NetR21.0_1 Pin=R21.0-1
+Added Pin To Net: NetName=NetR21.0_1 Pin=R210-2
+Added Net: Name=NetR21.0_1
+Added Pin To Net: NetName=NetR22.0_1 Pin=R22.0-1
+Added Pin To Net: NetName=NetR22.0_1 Pin=R220-2
+Added Net: Name=NetR22.0_1
+Added Member To Class: ClassName=01DriverOccure Member=Component R20.0 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R21.0 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R22.0 Res2

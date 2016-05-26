@@ -1,0 +1,14 @@
+Added Component: Designator=C324(CC0805)
+Added Component: Designator=Q5(TIP122)
+Added Component: Designator=Q6(TIP122)
+Added Pin To Net: NetName=AGND Pin=C324-1
+Added Pin To Net: NetName=AV-12 Pin=C324-2
+Added Pin To Net: NetName=NetC320_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC323_2 Pin=Q6-2
+Added Pin To Net: NetName=NetJR3_1 Pin=Q6-3
+Added Member To Class: ClassName=01DriverOccure Member=Component C324 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component Q5 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q6 TIP122

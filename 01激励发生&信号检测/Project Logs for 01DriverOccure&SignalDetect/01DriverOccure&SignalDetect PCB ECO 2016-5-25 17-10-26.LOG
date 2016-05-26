@@ -1,0 +1,28 @@
+Added Component: Designator=C02(4*4.5 贴片电解电容)
+Added Component: Designator=C03(4*4.5 贴片电解电容)
+Added Component: Designator=C06(4*4.5 贴片电解电容)
+Added Component: Designator=C08(4*4.5 贴片电解电容)
+Added Component: Designator=C010(4*4.5 贴片电解电容)
+Added Component: Designator=C012(4*4.5 贴片电解电容)
+Added Component: Designator=C041(4*4.5 贴片电解电容)
+Added Pin To Net: NetName=DVDD3.3 Pin=C02-1
+Added Pin To Net: NetName=AGND Pin=C02-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C03-1
+Added Pin To Net: NetName=AGND Pin=C03-2
+Added Pin To Net: NetName=AVDD5.0 Pin=C06-1
+Added Pin To Net: NetName=AGND Pin=C06-2
+Added Pin To Net: NetName=IN_+12V Pin=C08-1
+Added Pin To Net: NetName=AGND Pin=C08-2
+Added Pin To Net: NetName=AGND Pin=C010-1
+Added Pin To Net: NetName=AV-12 Pin=C010-2
+Added Pin To Net: NetName=IN_+15V Pin=C012-1
+Added Pin To Net: NetName=AGND Pin=C012-2
+Added Pin To Net: NetName=AV+12 Pin=C041-1
+Added Pin To Net: NetName=AGND Pin=C041-2
+Added Member To Class: ClassName=01DriverOccure Member=Component C02 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C03 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C06 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C08 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C010 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C012 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C041 Cap Pol1

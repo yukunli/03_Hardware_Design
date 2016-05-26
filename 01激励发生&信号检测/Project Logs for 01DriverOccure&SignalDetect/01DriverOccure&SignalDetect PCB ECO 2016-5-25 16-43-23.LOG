@@ -1,0 +1,7 @@
+Added Component: Designator=P01(5角弯式电源插座)
+Added Pin To Net: NetName=IN_+15V Pin=P01-1
+Added Pin To Net: NetName=IN_+12V Pin=P01-2
+Added Pin To Net: NetName=AV-12 Pin=P01-3
+Added Pin To Net: NetName=AVDD5.0 Pin=P01-4
+Added Pin To Net: NetName=AGND Pin=P01-5
+Added Member To Class: ClassName=01DriverOccure Member=Component P01 电源输入

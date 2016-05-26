@@ -1,0 +1,476 @@
+Added Component: Designator=C01(CC0805)
+Added Component: Designator=C2-0(CC0805)
+Added Component: Designator=C2-1(CC0805)
+Added Component: Designator=C2-2(CC0805)
+Added Component: Designator=C2-3(CC0805)
+Added Component: Designator=C2-4(CC0805)
+Added Component: Designator=C2-5(CC0805)
+Added Component: Designator=C02(4*4.5 贴片电解电容)
+Added Component: Designator=C03(4*4.5 贴片电解电容)
+Added Component: Designator=C04(CC0805)
+Added Component: Designator=C05(CC0805)
+Added Component: Designator=C06(4*4.5 贴片电解电容)
+Added Component: Designator=C07(CC0805)
+Added Component: Designator=C08(4*4.5 贴片电解电容)
+Added Component: Designator=C09(CC0805)
+Added Component: Designator=C010(4*4.5 贴片电解电容)
+Added Component: Designator=C10(C-RB-S10)
+Added Component: Designator=C011(CC0805)
+Added Component: Designator=C11(CAP-7343)
+Added Component: Designator=C012(4*4.5 贴片电解电容)
+Added Component: Designator=C13(CC0805)
+Added Component: Designator=C20(CC0805)
+Added Component: Designator=C21(CC0805)
+Added Component: Designator=C22(CC0805)
+Added Component: Designator=C23(CC0805)
+Added Component: Designator=C24(CC0805)
+Added Component: Designator=C25(CC0805)
+Added Component: Designator=C100(CC0805)
+Added Component: Designator=C101(CC0805)
+Added Component: Designator=C102(CC0805)
+Added Component: Designator=C103(CC0805)
+Added Component: Designator=C104(CC0805)
+Added Component: Designator=C105(CC0805)
+Added Component: Designator=C106(CC0805)
+Added Component: Designator=C110(CC0805)
+Added Component: Designator=C111(CC0805)
+Added Component: Designator=C112(CC0805)
+Added Component: Designator=C113(CC0805)
+Added Component: Designator=C114(CC0805)
+Added Component: Designator=C115(CC0805)
+Added Component: Designator=C116(CC0805)
+Added Component: Designator=C120(CC0805)
+Added Component: Designator=C121(CC0805)
+Added Component: Designator=C122(CC0805)
+Added Component: Designator=C123(CC0805)
+Added Component: Designator=C124(CC0805)
+Added Component: Designator=C125(CC0805)
+Added Component: Designator=C126(CC0805)
+Added Component: Designator=C300(CC0805)
+Added Component: Designator=C303(CC0805)
+Added Component: Designator=C304(CC0805)
+Added Component: Designator=C305(CC0805)
+Added Component: Designator=C310(CC0805)
+Added Component: Designator=C313(CC0805)
+Added Component: Designator=C314(CC0805)
+Added Component: Designator=C315(CC0805)
+Added Component: Designator=C320(CC0805)
+Added Component: Designator=C322(CC0805)
+Added Component: Designator=C323(CC0805)
+Added Component: Designator=C324(CC0805)
+Added Component: Designator=D02(DIODE-SMA)
+Added Component: Designator=DLED(LED_0805)
+Added Component: Designator=DQ(LED_0805)
+Added Component: Designator=JR1(FUSE)
+Added Component: Designator=JR2(FUSE)
+Added Component: Designator=JR3(FUSE)
+Added Component: Designator=L01(L-SMD-7)
+Added Component: Designator=L05(1206)
+Added Component: Designator=MCU-IO(HDR1X8H)
+Added Component: Designator=P3-1(Text_PAD)
+Added Component: Designator=P3-2(Text_PAD)
+Added Component: Designator=P3-3(Text_PAD)
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=P11(HDR1X2)
+Added Component: Designator=P12(HDR1X2)
+Added Component: Designator=P20(HDR1X2)
+Added Component: Designator=P21(HDR1X2)
+Added Component: Designator=P23(HDR1X2)
+Added Component: Designator=POWER-IN(5角弯式电源插座)
+Added Component: Designator=POWER-OUT(小立式电源接口)
+Added Component: Designator=R0.0(0805)
+Added Component: Designator=R0.1(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R200(0805)
+Added Component: Designator=R201(0805)
+Added Component: Designator=R202(0805)
+Added Component: Designator=R203(0805)
+Added Component: Designator=R210(0805)
+Added Component: Designator=R211(0805)
+Added Component: Designator=R212(0805)
+Added Component: Designator=R213(0805)
+Added Component: Designator=R220(0805)
+Added Component: Designator=R221(0805)
+Added Component: Designator=R222(0805)
+Added Component: Designator=R223(0805)
+Added Component: Designator=R300(0805)
+Added Component: Designator=R304(0805)
+Added Component: Designator=R305(0805)
+Added Component: Designator=R306(0805)
+Added Component: Designator=R310(0805)
+Added Component: Designator=R312(0805)
+Added Component: Designator=R314(0805)
+Added Component: Designator=R315(0805)
+Added Component: Designator=R320(0805)
+Added Component: Designator=R322(0805)
+Added Component: Designator=R324(0805)
+Added Component: Designator=R325(0805)
+Added Component: Designator=RO(1206)
+Added Component: Designator=TR1(VR5)
+Added Component: Designator=TR2(VR5)
+Added Component: Designator=TR3(VR5)
+Added Component: Designator=U4(X-CPX75)
+Added Component: Designator=±12V(HDR1X3H)
+Added Pin To Net: NetName=DVDD3.3 Pin=C01-1
+Added Pin To Net: NetName=AGND Pin=C01-2
+Added Pin To Net: NetName=AV+12 Pin=C2-0-1
+Added Pin To Net: NetName=AGND Pin=C2-0-2
+Added Pin To Net: NetName=AV-12 Pin=C2-1-1
+Added Pin To Net: NetName=AGND Pin=C2-1-2
+Added Pin To Net: NetName=DVDD3.3 Pin=C02-1
+Added Pin To Net: NetName=AV+12 Pin=C2-2-1
+Added Pin To Net: NetName=AGND Pin=C2-2-2
+Added Pin To Net: NetName=AGND Pin=C02-2
+Added Pin To Net: NetName=AV-12 Pin=C2-3-1
+Added Pin To Net: NetName=AGND Pin=C2-3-2
+Added Pin To Net: NetName=AV+12 Pin=C2-4-1
+Added Pin To Net: NetName=AGND Pin=C2-4-2
+Added Pin To Net: NetName=AV-12 Pin=C2-5-1
+Added Pin To Net: NetName=AGND Pin=C2-5-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C03-1
+Added Pin To Net: NetName=AGND Pin=C03-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C04-1
+Added Pin To Net: NetName=AGND Pin=C04-2
+Added Pin To Net: NetName=AVDD5.0 Pin=C05-1
+Added Pin To Net: NetName=AGND Pin=C05-2
+Added Pin To Net: NetName=AVDD5.0 Pin=C06-1
+Added Pin To Net: NetName=AGND Pin=C06-2
+Added Pin To Net: NetName=IN_+12V Pin=C07-1
+Added Pin To Net: NetName=AGND Pin=C07-2
+Added Pin To Net: NetName=IN_+12V Pin=C08-1
+Added Pin To Net: NetName=AGND Pin=C08-2
+Added Pin To Net: NetName=AV-12 Pin=C09-1
+Added Pin To Net: NetName=AGND Pin=C09-2
+Added Pin To Net: NetName=AGND Pin=C010-1
+Added Pin To Net: NetName=AVDD5.0 Pin=C10-1
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AV-12 Pin=C010-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C11-1
+Added Pin To Net: NetName=IN_+15V Pin=C011-1
+Added Pin To Net: NetName=AGND Pin=C011-2
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=IN_+15V Pin=C012-1
+Added Pin To Net: NetName=AGND Pin=C012-2
+Added Pin To Net: NetName=DVDD3.3 Pin=C13-1
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=AMP_OUT1 Pin=C21-1
+Added Pin To Net: NetName=NetC20_1 Pin=C21-2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=AMP_OUT2 Pin=C23-1
+Added Pin To Net: NetName=NetC22_1 Pin=C23-2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=AMP_OUT3 Pin=C25-1
+Added Pin To Net: NetName=NetC24_1 Pin=C25-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C100-1
+Added Pin To Net: NetName=AGND Pin=C100-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C101-1
+Added Pin To Net: NetName=AGND Pin=C101-2
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=AVDD3.3 Pin=C102-2
+Added Pin To Net: NetName=NetC103_1 Pin=C103-1
+Added Pin To Net: NetName=AGND Pin=C103-2
+Added Pin To Net: NetName=NetC103_1 Pin=C104-1
+Added Pin To Net: NetName=AGND Pin=C104-2
+Added Pin To Net: NetName=AGND Pin=C105-1
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=AGND Pin=C106-1
+Added Pin To Net: NetName=AD9833_OUT1 Pin=C106-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C110-1
+Added Pin To Net: NetName=AGND Pin=C110-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C111-1
+Added Pin To Net: NetName=AGND Pin=C111-2
+Added Pin To Net: NetName=NetC112_1 Pin=C112-1
+Added Pin To Net: NetName=AVDD3.3 Pin=C112-2
+Added Pin To Net: NetName=NetC113_1 Pin=C113-1
+Added Pin To Net: NetName=AGND Pin=C113-2
+Added Pin To Net: NetName=NetC113_1 Pin=C114-1
+Added Pin To Net: NetName=AGND Pin=C114-2
+Added Pin To Net: NetName=AGND Pin=C115-1
+Added Pin To Net: NetName=NetC115_2 Pin=C115-2
+Added Pin To Net: NetName=AGND Pin=C116-1
+Added Pin To Net: NetName=AD9833_OUT2 Pin=C116-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C120-1
+Added Pin To Net: NetName=AGND Pin=C120-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C121-1
+Added Pin To Net: NetName=AGND Pin=C121-2
+Added Pin To Net: NetName=NetC122_1 Pin=C122-1
+Added Pin To Net: NetName=AVDD3.3 Pin=C122-2
+Added Pin To Net: NetName=NetC123_1 Pin=C123-1
+Added Pin To Net: NetName=AGND Pin=C123-2
+Added Pin To Net: NetName=NetC123_1 Pin=C124-1
+Added Pin To Net: NetName=AGND Pin=C124-2
+Added Pin To Net: NetName=AGND Pin=C125-1
+Added Pin To Net: NetName=NetC125_2 Pin=C125-2
+Added Pin To Net: NetName=AGND Pin=C126-1
+Added Pin To Net: NetName=AD9833_OUT3 Pin=C126-2
+Added Pin To Net: NetName=NetC300_1 Pin=C300-1
+Added Pin To Net: NetName=AGND Pin=C300-2
+Added Pin To Net: NetName=AGND Pin=C303-1
+Added Pin To Net: NetName=AV+12 Pin=C303-2
+Added Pin To Net: NetName=NetC304_1 Pin=C304-1
+Added Pin To Net: NetName=NetC304_2 Pin=C304-2
+Added Pin To Net: NetName=AGND Pin=C305-1
+Added Pin To Net: NetName=AV-12 Pin=C305-2
+Added Pin To Net: NetName=NetC310_1 Pin=C310-1
+Added Pin To Net: NetName=AGND Pin=C310-2
+Added Pin To Net: NetName=AGND Pin=C313-1
+Added Pin To Net: NetName=AV+12 Pin=C313-2
+Added Pin To Net: NetName=NetC314_1 Pin=C314-1
+Added Pin To Net: NetName=NetC314_2 Pin=C314-2
+Added Pin To Net: NetName=AGND Pin=C315-1
+Added Pin To Net: NetName=AV-12 Pin=C315-2
+Added Pin To Net: NetName=NetC320_1 Pin=C320-1
+Added Pin To Net: NetName=AGND Pin=C320-2
+Added Pin To Net: NetName=AGND Pin=C322-1
+Added Pin To Net: NetName=AV+12 Pin=C322-2
+Added Pin To Net: NetName=NetC323_1 Pin=C323-1
+Added Pin To Net: NetName=NetC323_2 Pin=C323-2
+Added Pin To Net: NetName=AGND Pin=C324-1
+Added Pin To Net: NetName=AV-12 Pin=C324-2
+Added Pin To Net: NetName=AGND Pin=D02-1
+Added Pin To Net: NetName=NetD02_2 Pin=D02-2
+Added Pin To Net: NetName=NetDLED_1 Pin=DLED-1
+Added Pin To Net: NetName=AGND Pin=DLED-2
+Added Pin To Net: NetName=NetDQ_1 Pin=DQ-1
+Added Pin To Net: NetName=AGND Pin=DQ-2
+Added Pin To Net: NetName=NetJR1_1 Pin=JR1-1
+Added Pin To Net: NetName=AGND Pin=JR1-2
+Added Pin To Net: NetName=NetJR2_1 Pin=JR2-1
+Added Pin To Net: NetName=AGND Pin=JR2-2
+Added Pin To Net: NetName=NetJR3_1 Pin=JR3-1
+Added Pin To Net: NetName=AGND Pin=JR3-2
+Added Pin To Net: NetName=AVDD3.3 Pin=L01-1
+Added Pin To Net: NetName=NetD02_2 Pin=L01-2
+Added Pin To Net: NetName=AVDD3.3 Pin=L05-1
+Added Pin To Net: NetName=DVDD3.3 Pin=L05-2
+Added Pin To Net: NetName=IN_CS1 Pin=MCU-IO-1
+Added Pin To Net: NetName=IN_CS2 Pin=MCU-IO-2
+Added Pin To Net: NetName=IN_CS3 Pin=MCU-IO-3
+Added Pin To Net: NetName=IN_CLK Pin=MCU-IO-4
+Added Pin To Net: NetName=IN_SIMO Pin=MCU-IO-5
+Added Pin To Net: NetName=IN_IOLED Pin=MCU-IO-6
+Added Pin To Net: NetName=AGND Pin=MCU-IO-7
+Added Pin To Net: NetName=AGND Pin=MCU-IO-8
+Added Pin To Net: NetName=NetJR1_1 Pin=P3-1-0
+Added Pin To Net: NetName=NetJR2_1 Pin=P3-2-0
+Added Pin To Net: NetName=NetJR3_1 Pin=P3-3-0
+Added Pin To Net: NetName=AD9833_OUT1 Pin=P10-1
+Added Pin To Net: NetName=AMP_IN1 Pin=P10-2
+Added Pin To Net: NetName=AD9833_OUT2 Pin=P11-1
+Added Pin To Net: NetName=AMP_IN2 Pin=P11-2
+Added Pin To Net: NetName=AD9833_OUT3 Pin=P12-1
+Added Pin To Net: NetName=AMP_IN3 Pin=P12-2
+Added Pin To Net: NetName=AMP_OUT1 Pin=P20-1
+Added Pin To Net: NetName=SOUR_IN1 Pin=P20-2
+Added Pin To Net: NetName=AMP_OUT2 Pin=P21-1
+Added Pin To Net: NetName=SOUR_IN2 Pin=P21-2
+Added Pin To Net: NetName=AMP_OUT3 Pin=P23-1
+Added Pin To Net: NetName=SOUR_IN3 Pin=P23-2
+Added Pin To Net: NetName=IN_+15V Pin=POWER-IN-1
+Added Pin To Net: NetName=IN_+12V Pin=POWER-IN-2
+Added Pin To Net: NetName=AV-12 Pin=POWER-IN-3
+Added Pin To Net: NetName=AVDD5.0 Pin=POWER-IN-4
+Added Pin To Net: NetName=AGND Pin=POWER-IN-5
+Added Pin To Net: NetName=AV+12 Pin=POWER-OUT-1
+Added Pin To Net: NetName=AV-12 Pin=POWER-OUT-2
+Added Pin To Net: NetName=AVDD5.0 Pin=POWER-OUT-3
+Added Pin To Net: NetName=AVDD3.3 Pin=POWER-OUT-4
+Added Pin To Net: NetName=DVDD3.3 Pin=POWER-OUT-5
+Added Pin To Net: NetName=AGND Pin=POWER-OUT-6
+Added Pin To Net: NetName=AGND Pin=POWER-OUT-7
+Added Pin To Net: NetName=NetDQ_1 Pin=R0.0-1
+Added Pin To Net: NetName=AVDD5.0 Pin=R0.0-2
+Added Pin To Net: NetName=NetDLED_1 Pin=R0.1-1
+Added Pin To Net: NetName=IN_IOLED Pin=R0.1-2
+Added Pin To Net: NetName=NetC105_2 Pin=R10-1
+Added Pin To Net: NetName=AD9833_OUT1 Pin=R10-2
+Added Pin To Net: NetName=NetC115_2 Pin=R11-1
+Added Pin To Net: NetName=AD9833_OUT2 Pin=R11-2
+Added Pin To Net: NetName=NetC125_2 Pin=R12-1
+Added Pin To Net: NetName=AD9833_OUT3 Pin=R12-2
+Added Pin To Net: NetName=NetC20_2 Pin=R200-1
+Added Pin To Net: NetName=NetR200_2 Pin=R200-2
+Added Pin To Net: NetName=AGND Pin=R201-1
+Added Pin To Net: NetName=NetC20_2 Pin=R201-2
+Added Pin To Net: NetName=AMP_IN1 Pin=R202-1
+Added Pin To Net: NetName=NetR202_2 Pin=R202-2
+Added Pin To Net: NetName=AGND Pin=R203-1
+Added Pin To Net: NetName=AMP_OUT1 Pin=R203-2
+Added Pin To Net: NetName=NetC22_2 Pin=R210-1
+Added Pin To Net: NetName=NetR210_2 Pin=R210-2
+Added Pin To Net: NetName=AGND Pin=R211-1
+Added Pin To Net: NetName=NetC22_2 Pin=R211-2
+Added Pin To Net: NetName=AMP_IN2 Pin=R212-1
+Added Pin To Net: NetName=NetR212_2 Pin=R212-2
+Added Pin To Net: NetName=AGND Pin=R213-1
+Added Pin To Net: NetName=AMP_OUT2 Pin=R213-2
+Added Pin To Net: NetName=NetC24_2 Pin=R220-1
+Added Pin To Net: NetName=NetR220_2 Pin=R220-2
+Added Pin To Net: NetName=AGND Pin=R221-1
+Added Pin To Net: NetName=NetC24_2 Pin=R221-2
+Added Pin To Net: NetName=AMP_IN3 Pin=R222-1
+Added Pin To Net: NetName=NetR222_2 Pin=R222-2
+Added Pin To Net: NetName=AGND Pin=R223-1
+Added Pin To Net: NetName=AMP_OUT3 Pin=R223-2
+Added Pin To Net: NetName=AV+15 Pin=R300-1
+Added Pin To Net: NetName=NetC300_1 Pin=R300-2
+Added Pin To Net: NetName=NetR304_1 Pin=R304-1
+Added Pin To Net: NetName=NetJR1_1 Pin=R304-2
+Added Pin To Net: NetName=SOUR_IN1 Pin=R305-1
+Added Pin To Net: NetName=NetR305_2 Pin=R305-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R306-1
+Added Pin To Net: NetName=NetR306_2 Pin=R306-2
+Added Pin To Net: NetName=AV+15 Pin=R310-1
+Added Pin To Net: NetName=NetC310_1 Pin=R310-2
+Added Pin To Net: NetName=NetR312_1 Pin=R312-1
+Added Pin To Net: NetName=NetJR2_1 Pin=R312-2
+Added Pin To Net: NetName=SOUR_IN2 Pin=R314-1
+Added Pin To Net: NetName=NetR314_2 Pin=R314-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R315-1
+Added Pin To Net: NetName=NetR315_2 Pin=R315-2
+Added Pin To Net: NetName=AV+15 Pin=R320-1
+Added Pin To Net: NetName=NetC320_1 Pin=R320-2
+Added Pin To Net: NetName=NetR322_1 Pin=R322-1
+Added Pin To Net: NetName=NetJR3_1 Pin=R322-2
+Added Pin To Net: NetName=SOUR_IN3 Pin=R324-1
+Added Pin To Net: NetName=NetR324_2 Pin=R324-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R325-1
+Added Pin To Net: NetName=NetR325_2 Pin=R325-2
+Added Pin To Net: NetName=AGND Pin=RO-1
+Added Pin To Net: NetName=AGND Pin=RO-2
+Added Pin To Net: NetName=NetC20_1 Pin=TR1-1
+Added Pin To Net: NetName=NetC20_1 Pin=TR1-2
+Added Pin To Net: NetName=NetR200_2 Pin=TR1-3
+Added Pin To Net: NetName=NetC22_1 Pin=TR2-1
+Added Pin To Net: NetName=NetC22_1 Pin=TR2-2
+Added Pin To Net: NetName=NetR210_2 Pin=TR2-3
+Added Pin To Net: NetName=NetC24_1 Pin=TR3-1
+Added Pin To Net: NetName=NetC24_1 Pin=TR3-2
+Added Pin To Net: NetName=NetR220_2 Pin=TR3-3
+Added Pin To Net: NetName=AGND Pin=U4-2
+Added Pin To Net: NetName=MCLK Pin=U4-3
+Added Pin To Net: NetName=DVDD3.3 Pin=U4-4
+Added Pin To Net: NetName=AV+12 Pin=±12V-1
+Added Pin To Net: NetName=AV-12 Pin=±12V-2
+Added Pin To Net: NetName=AGND Pin=±12V-3
+Added Member To Class: ClassName=01DriverOccure Member=Component C01 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-0 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-1 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-2 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-3 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-4 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-5 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C02 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C03 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C04 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C05 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C06 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C07 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C08 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C09 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C010 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C10 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C011 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C11 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C012 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C13 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C20 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C21 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C22 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C23 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C24 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C25 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C100 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C101 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C102 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C103 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C104 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C105 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C106 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C110 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C111 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C112 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C113 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C114 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C115 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C116 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C120 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C121 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C122 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C123 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C124 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C125 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C126 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C300 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C303 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C304 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C305 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C310 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C313 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C314 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C315 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C320 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C322 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C323 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C324 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component D02 1N5824
+Added Member To Class: ClassName=01DriverOccure Member=Component DLED Alarm
+Added Member To Class: ClassName=01DriverOccure Member=Component DQ Alarm
+Added Member To Class: ClassName=01DriverOccure Member=Component JR1 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR2 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR3 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component L01 Inductor
+Added Member To Class: ClassName=01DriverOccure Member=Component L05 Inductor
+Added Member To Class: ClassName=01DriverOccure Member=Component MCU-IO MCU信号输入
+Added Member To Class: ClassName=01DriverOccure Member=Component P3-1 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P3-2 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P3-3 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P10 跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P11 跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P12 跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P20 AMP跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P21 AMP跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P23 AMP跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component POWER-IN 电源输入
+Added Member To Class: ClassName=01DriverOccure Member=Component POWER-OUT 电源输出
+Added Member To Class: ClassName=01DriverOccure Member=Component R0.0 1K
+Added Member To Class: ClassName=01DriverOccure Member=Component R0.1 500
+Added Member To Class: ClassName=01DriverOccure Member=Component R10 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R11 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R12 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R200 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R201 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R202 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R203 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R210 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R211 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R212 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R213 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R220 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R221 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R222 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R223 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R300 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R304 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R305 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R306 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R310 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R312 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R314 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R315 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R320 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R322 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R324 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R325 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component RO Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component TR1 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component TR2 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component TR3 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component U4 MCLK
+Added Member To Class: ClassName=01DriverOccure Member=Component ±12V 信号处理板连接

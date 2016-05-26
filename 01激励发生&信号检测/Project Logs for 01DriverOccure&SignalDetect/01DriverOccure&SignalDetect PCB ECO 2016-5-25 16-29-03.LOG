@@ -1,0 +1,1110 @@
+Added Component: Designator=C001(C0805)
+Added Component: Designator=C01(C0805)
+Added Component: Designator=C2-0(C0805)
+Added Component: Designator=C2-1(C0805)
+Added Component: Designator=C2-2(C0805)
+Added Component: Designator=C2-3(C0805)
+Added Component: Designator=C2-4(C0805)
+Added Component: Designator=C2-5(C0805)
+Added Component: Designator=C002(C0805)
+Added Component: Designator=C02(4*4.5 贴片电解电容)
+Added Component: Designator=C003(C0805)
+Added Component: Designator=C03(4*4.5 贴片电解电容)
+Added Component: Designator=C004(C0805)
+Added Component: Designator=C04(C0805)
+Added Component: Designator=C005(C0805)
+Added Component: Designator=C05(C0805)
+Added Component: Designator=C006(C0805)
+Added Component: Designator=C06(4*4.5 贴片电解电容)
+Added Component: Designator=C007(C0805)
+Added Component: Designator=C07(C0805)
+Added Component: Designator=C008(C0805)
+Added Component: Designator=C08(4*4.5 贴片电解电容)
+Added Component: Designator=C009(C0805)
+Added Component: Designator=C09(C0805)
+Added Component: Designator=C010(4*4.5 贴片电解电容)
+Added Component: Designator=C10(C-RB-S10)
+Added Component: Designator=C011(C0805)
+Added Component: Designator=C11(CAP-7343)
+Added Component: Designator=C012(4*4.5 贴片电解电容)
+Added Component: Designator=C013(C0805)
+Added Component: Designator=C13(C0805)
+Added Component: Designator=C014(校正电容)
+Added Component: Designator=C015(校正电容)
+Added Component: Designator=C016(校正电容)
+Added Component: Designator=C017(校正电容)
+Added Component: Designator=C018(校正电容)
+Added Component: Designator=C019(校正电容)
+Added Component: Designator=C020(校正电容)
+Added Component: Designator=C20(C0805)
+Added Component: Designator=C021(校正电容)
+Added Component: Designator=C21(C0805)
+Added Component: Designator=C022(校正电容)
+Added Component: Designator=C22(C0805)
+Added Component: Designator=C023(校正电容)
+Added Component: Designator=C23(C0805)
+Added Component: Designator=C024(校正电容)
+Added Component: Designator=C025(校正电容)
+Added Component: Designator=C25(C0805)
+Added Component: Designator=C026(C0805)
+Added Component: Designator=C027(C0805)
+Added Component: Designator=C028(C0805)
+Added Component: Designator=C029(C0805)
+Added Component: Designator=C030(C0805)
+Added Component: Designator=C031(C0805)
+Added Component: Designator=C032(C0805)
+Added Component: Designator=C033(C0805)
+Added Component: Designator=C034(C0805)
+Added Component: Designator=C035(C0805)
+Added Component: Designator=C036(C0805)
+Added Component: Designator=C037(C0805)
+Added Component: Designator=C038(C0805)
+Added Component: Designator=C039(C0805)
+Added Component: Designator=C040(C0805)
+Added Component: Designator=C041(4*4.5 贴片电解电容)
+Added Component: Designator=C042(4*4.5 贴片电解电容)
+Added Component: Designator=C044(C0805)
+Added Component: Designator=C045(C0805)
+Added Component: Designator=C046(C0805)
+Added Component: Designator=C100(C0805)
+Added Component: Designator=C101(C0805)
+Added Component: Designator=C102(C0805)
+Added Component: Designator=C103(C0805)
+Added Component: Designator=C104(C0805)
+Added Component: Designator=C105(C0805)
+Added Component: Designator=C106(C0805)
+Added Component: Designator=C110(C0805)
+Added Component: Designator=C111(C0805)
+Added Component: Designator=C112(C0805)
+Added Component: Designator=C113(C0805)
+Added Component: Designator=C114(C0805)
+Added Component: Designator=C115(C0805)
+Added Component: Designator=C116(C0805)
+Added Component: Designator=C120(C0805)
+Added Component: Designator=C121(C0805)
+Added Component: Designator=C122(C0805)
+Added Component: Designator=C123(C0805)
+Added Component: Designator=C124(C0805)
+Added Component: Designator=C125(C0805)
+Added Component: Designator=C126(C0805)
+Added Component: Designator=C300(C0805)
+Added Component: Designator=C301(小电解电容)
+Added Component: Designator=C303(C0805)
+Added Component: Designator=C304(C0805)
+Added Component: Designator=C305(C0805)
+Added Component: Designator=C310(C0805)
+Added Component: Designator=C312(小电解电容)
+Added Component: Designator=C313(C0805)
+Added Component: Designator=C314(C0805)
+Added Component: Designator=C315(C0805)
+Added Component: Designator=C320(C0805)
+Added Component: Designator=C321(小电解电容)
+Added Component: Designator=C322(C0805)
+Added Component: Designator=C323(C0805)
+Added Component: Designator=C324(C0805)
+Added Component: Designator=CO10(C0805)
+Added Component: Designator=CO11(C0805)
+Added Component: Designator=CO12(C0805)
+Added Component: Designator=D1(DIODE-SMA)
+Added Component: Designator=D02(DIODE-SMA)
+Added Component: Designator=D2(DIODE-SMA)
+Added Component: Designator=D3(DIODE-SMA)
+Added Component: Designator=DLED(LED_0805)
+Added Component: Designator=DQ(LED_0805)
+Added Component: Designator=JR1(FUSE)
+Added Component: Designator=JR2(FUSE)
+Added Component: Designator=JR3(FUSE)
+Added Component: Designator=L01(L-SMD-7)
+Added Component: Designator=L05(1206)
+Added Component: Designator=P0-1(Text_PAD)
+Added Component: Designator=P3-1(Text_PAD)
+Added Component: Designator=P3-2(Text_PAD)
+Added Component: Designator=P3-3(Text_PAD)
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=P11(HDR1X2)
+Added Component: Designator=P12(HDR1X2)
+Added Component: Designator=P20(HDR1X2)
+Added Component: Designator=P21(HDR1X2)
+Added Component: Designator=P23(HDR1X2)
+Added Component: Designator=P32(HDR1X3H)
+Added Component: Designator=P-SIGNAL-TEST(HDR1X4)
+Added Component: Designator=POI1(HDR1X2)
+Added Component: Designator=POI2(HDR1X2)
+Added Component: Designator=Q1(TIP122)
+Added Component: Designator=Q2(TIP122)
+Added Component: Designator=Q3(TIP122)
+Added Component: Designator=Q4(TIP122)
+Added Component: Designator=Q5(TIP122)
+Added Component: Designator=Q6(TIP122)
+Added Component: Designator=R0.0(0805)
+Added Component: Designator=R0.1(0805)
+Added Component: Designator=R01(0805)
+Added Component: Designator=R02(0805)
+Added Component: Designator=R03(0805)
+Added Component: Designator=R04(0805)
+Added Component: Designator=R05(0805)
+Added Component: Designator=R07(0805)
+Added Component: Designator=R08(0805)
+Added Component: Designator=R09(0805)
+Added Component: Designator=R010(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R012(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R013(0805)
+Added Component: Designator=R014(0805)
+Added Component: Designator=R015(0805)
+Added Component: Designator=R016(0805)
+Added Component: Designator=R017(0805)
+Added Component: Designator=R018(0805)
+Added Component: Designator=R019(0805)
+Added Component: Designator=R020(0805)
+Added Component: Designator=R021(0805)
+Added Component: Designator=R022(0805)
+Added Component: Designator=R024(0805)
+Added Component: Designator=R025(0805)
+Added Component: Designator=R027(0805)
+Added Component: Designator=R029(0805)
+Added Component: Designator=R033(0805)
+Added Component: Designator=R034(0805)
+Added Component: Designator=R036(0805)
+Added Component: Designator=R037(0805)
+Added Component: Designator=R038(0805)
+Added Component: Designator=R040(0805)
+Added Component: Designator=R041(0805)
+Added Component: Designator=R046(0805)
+Added Component: Designator=R047(0805)
+Added Component: Designator=R049(0805)
+Added Component: Designator=R050(0805)
+Added Component: Designator=R051(0805)
+Added Component: Designator=R053(0805)
+Added Component: Designator=R054(0805)
+Added Component: Designator=R200(0805)
+Added Component: Designator=R201(0805)
+Added Component: Designator=R202(0805)
+Added Component: Designator=R203(0805)
+Added Component: Designator=R210(0805)
+Added Component: Designator=R211(0805)
+Added Component: Designator=R212(0805)
+Added Component: Designator=R213(0805)
+Added Component: Designator=R220(0805)
+Added Component: Designator=R221(0805)
+Added Component: Designator=R222(0805)
+Added Component: Designator=R223(0805)
+Added Component: Designator=R300(0805)
+Added Component: Designator=R301(2010贴片)
+Added Component: Designator=R303(2010贴片)
+Added Component: Designator=R304(0805)
+Added Component: Designator=R305(0805)
+Added Component: Designator=R306(0805)
+Added Component: Designator=R310(0805)
+Added Component: Designator=R311(2010贴片)
+Added Component: Designator=R312(0805)
+Added Component: Designator=R313(2010贴片)
+Added Component: Designator=R314(0805)
+Added Component: Designator=R315(0805)
+Added Component: Designator=R320(0805)
+Added Component: Designator=R321(2010贴片)
+Added Component: Designator=R322(0805)
+Added Component: Designator=R323(2010贴片)
+Added Component: Designator=R324(0805)
+Added Component: Designator=R325(0805)
+Added Component: Designator=RO(1206)
+Added Component: Designator=TR06(VR5)
+Added Component: Designator=TR011(VR5)
+Added Component: Designator=TR20(VR5)
+Added Component: Designator=TR21(VR5)
+Added Component: Designator=TR023(VR5)
+Added Component: Designator=TR23(VR5)
+Added Component: Designator=TR026(VR5)
+Added Component: Designator=TR035(VR5)
+Added Component: Designator=TR039(VR5)
+Added Component: Designator=TR048(VR5)
+Added Component: Designator=TR052(VR5)
+Added Component: Designator=U01(SO-8-N)
+Added Component: Designator=U1(MSOP_AD9833_10N)
+Added Component: Designator=U02(SO-8-N)
+Added Component: Designator=U2(MSOP_AD9833_10N)
+Added Component: Designator=U03(SO-8-N)
+Added Component: Designator=U3(MSOP_AD9833_10N)
+Added Component: Designator=U04(SO-8-N)
+Added Component: Designator=U4(X-CPX75)
+Added Component: Designator=U05(SO-8-N)
+Added Component: Designator=U5(SO-8-N)
+Added Component: Designator=U06(SO-8-N)
+Added Component: Designator=U6(SO-8-N)
+Added Component: Designator=U07(SO-8-N)
+Added Component: Designator=U7(SO-8-N)
+Added Component: Designator=U08(SO-8-N)
+Added Component: Designator=U8(SO-8-N)
+Added Component: Designator=U09(SO-8-N)
+Added Component: Designator=U9(SO-8-N)
+Added Component: Designator=U10(SO-8-N)
+Added Component: Designator=U011(SO-8-N)
+Added Component: Designator=U012(SO-8-N)
+Added Component: Designator=U013(SO-8-N)
+Added Component: Designator=U014(SO-8-N)
+Added Component: Designator=U015(SO-8-N)
+Added Component: Designator=U016(SO-8-N)
+Added Component: Designator=UB010(SO-8-N)
+Added Component: Designator=UP(LM2596S)
+Added Pin To Net: NetName=DVDD3.3 Pin=C01-1
+Added Pin To Net: NetName=NetC001_1 Pin=C001-1
+Added Pin To Net: NetName=AGND Pin=C01-2
+Added Pin To Net: NetName=NetC001_2 Pin=C001-2
+Added Pin To Net: NetName=AV+12 Pin=C2-0-1
+Added Pin To Net: NetName=AGND Pin=C2-0-2
+Added Pin To Net: NetName=AV-12 Pin=C2-1-1
+Added Pin To Net: NetName=AGND Pin=C2-1-2
+Added Pin To Net: NetName=DVDD3.3 Pin=C02-1
+Added Pin To Net: NetName=NetC002_1 Pin=C002-1
+Added Pin To Net: NetName=AV+12 Pin=C2-2-1
+Added Pin To Net: NetName=AGND Pin=C2-2-2
+Added Pin To Net: NetName=AGND Pin=C02-2
+Added Pin To Net: NetName=NetC001_1 Pin=C002-2
+Added Pin To Net: NetName=AV-12 Pin=C2-3-1
+Added Pin To Net: NetName=AGND Pin=C2-3-2
+Added Pin To Net: NetName=AV+12 Pin=C2-4-1
+Added Pin To Net: NetName=AGND Pin=C2-4-2
+Added Pin To Net: NetName=AV-12 Pin=C2-5-1
+Added Pin To Net: NetName=AGND Pin=C2-5-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C03-1
+Added Pin To Net: NetName=NetC003_1 Pin=C003-1
+Added Pin To Net: NetName=AGND Pin=C03-2
+Added Pin To Net: NetName=NetC003_2 Pin=C003-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C04-1
+Added Pin To Net: NetName=NetC004_1 Pin=C004-1
+Added Pin To Net: NetName=AGND Pin=C04-2
+Added Pin To Net: NetName=NetC003_1 Pin=C004-2
+Added Pin To Net: NetName=AVDD5.0 Pin=C05-1
+Added Pin To Net: NetName=FAMP_OUT Pin=C005-1
+Added Pin To Net: NetName=AGND Pin=C05-2
+Added Pin To Net: NetName=NetC005_2 Pin=C005-2
+Added Pin To Net: NetName=AVDD5.0 Pin=C06-1
+Added Pin To Net: NetName=NetC006_1 Pin=C006-1
+Added Pin To Net: NetName=AGND Pin=C06-2
+Added Pin To Net: NetName=FILTER_IN Pin=C006-2
+Added Pin To Net: NetName=IN_+12V Pin=C07-1
+Added Pin To Net: NetName=NetC007_1 Pin=C007-1
+Added Pin To Net: NetName=AGND Pin=C07-2
+Added Pin To Net: NetName=NetC006_1 Pin=C007-2
+Added Pin To Net: NetName=IN_+12V Pin=C08-1
+Added Pin To Net: NetName=NetC008_1 Pin=C008-1
+Added Pin To Net: NetName=AGND Pin=C008-2
+Added Pin To Net: NetName=AGND Pin=C08-2
+Added Pin To Net: NetName=AV-12 Pin=C09-1
+Added Pin To Net: NetName=NetC009_1 Pin=C009-1
+Added Pin To Net: NetName=AGND Pin=C09-2
+Added Pin To Net: NetName=NetC009_2 Pin=C009-2
+Added Pin To Net: NetName=AGND Pin=C010-1
+Added Pin To Net: NetName=AVDD5.0 Pin=C10-1
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AV-12 Pin=C010-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C11-1
+Added Pin To Net: NetName=IN_+15V Pin=C011-1
+Added Pin To Net: NetName=AGND Pin=C011-2
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=IN_+15V Pin=C012-1
+Added Pin To Net: NetName=AGND Pin=C012-2
+Added Pin To Net: NetName=DVDD3.3 Pin=C13-1
+Added Pin To Net: NetName=FILTER_OUT Pin=C013-1
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Pin To Net: NetName=NetC013_2 Pin=C013-2
+Added Pin To Net: NetName=NetC014_1 Pin=C014-1
+Added Pin To Net: NetName=NetC014_2 Pin=C014-2
+Added Pin To Net: NetName=NetC015_1 Pin=C015-1
+Added Pin To Net: NetName=NetC014_2 Pin=C015-2
+Added Pin To Net: NetName=NetC016_1 Pin=C016-1
+Added Pin To Net: NetName=NetC016_2 Pin=C016-2
+Added Pin To Net: NetName=NetC017_1 Pin=C017-1
+Added Pin To Net: NetName=NetC016_2 Pin=C017-2
+Added Pin To Net: NetName=NetC018_1 Pin=C018-1
+Added Pin To Net: NetName=NetC018_2 Pin=C018-2
+Added Pin To Net: NetName=NetC019_1 Pin=C019-1
+Added Pin To Net: NetName=NetC018_2 Pin=C019-2
+Added Pin To Net: NetName=NetC020_1 Pin=C020-1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC020_2 Pin=C020-2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=AMP_OUT1 Pin=C21-1
+Added Pin To Net: NetName=NetC021_1 Pin=C021-1
+Added Pin To Net: NetName=NetC20_1 Pin=C21-2
+Added Pin To Net: NetName=NetC020_2 Pin=C021-2
+Added Pin To Net: NetName=NetC022_1 Pin=C022-1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC022_2 Pin=C022-2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=AMP_OUT2 Pin=C23-1
+Added Pin To Net: NetName=NetC023_1 Pin=C023-1
+Added Pin To Net: NetName=NetC22_1 Pin=C23-2
+Added Pin To Net: NetName=NetC023_2 Pin=C023-2
+Added Pin To Net: NetName=NetC024_1 Pin=C024-1
+Added Pin To Net: NetName=NetC024_2 Pin=C024-2
+Added Pin To Net: NetName=AMP_OUT3 Pin=C25-1
+Added Pin To Net: NetName=NetC025_1 Pin=C025-1
+Added Pin To Net: NetName=NetC24_1 Pin=C25-2
+Added Pin To Net: NetName=NetC025_2 Pin=C025-2
+Added Pin To Net: NetName=AV+12 Pin=C026-1
+Added Pin To Net: NetName=AGND Pin=C026-2
+Added Pin To Net: NetName=AV+12 Pin=C027-1
+Added Pin To Net: NetName=AGND Pin=C027-2
+Added Pin To Net: NetName=AV+12 Pin=C028-1
+Added Pin To Net: NetName=AGND Pin=C028-2
+Added Pin To Net: NetName=AV+12 Pin=C029-1
+Added Pin To Net: NetName=AGND Pin=C029-2
+Added Pin To Net: NetName=AV+12 Pin=C030-1
+Added Pin To Net: NetName=AGND Pin=C030-2
+Added Pin To Net: NetName=AV+12 Pin=C031-1
+Added Pin To Net: NetName=AGND Pin=C031-2
+Added Pin To Net: NetName=AV-12 Pin=C032-1
+Added Pin To Net: NetName=AGND Pin=C032-2
+Added Pin To Net: NetName=AV-12 Pin=C033-1
+Added Pin To Net: NetName=AGND Pin=C033-2
+Added Pin To Net: NetName=AV-12 Pin=C034-1
+Added Pin To Net: NetName=AGND Pin=C034-2
+Added Pin To Net: NetName=AV-12 Pin=C035-1
+Added Pin To Net: NetName=AGND Pin=C035-2
+Added Pin To Net: NetName=AV-12 Pin=C036-1
+Added Pin To Net: NetName=AGND Pin=C036-2
+Added Pin To Net: NetName=AV-12 Pin=C037-1
+Added Pin To Net: NetName=AGND Pin=C037-2
+Added Pin To Net: NetName=AV+12 Pin=C038-1
+Added Pin To Net: NetName=AGND Pin=C038-2
+Added Pin To Net: NetName=AV+12 Pin=C039-1
+Added Pin To Net: NetName=AGND Pin=C039-2
+Added Pin To Net: NetName=AV+12 Pin=C040-1
+Added Pin To Net: NetName=AGND Pin=C040-2
+Added Pin To Net: NetName=AV+12 Pin=C041-1
+Added Pin To Net: NetName=AGND Pin=C041-2
+Added Pin To Net: NetName=AGND Pin=C042-1
+Added Pin To Net: NetName=AV-12 Pin=C042-2
+Added Pin To Net: NetName=AV-12 Pin=C044-1
+Added Pin To Net: NetName=AGND Pin=C044-2
+Added Pin To Net: NetName=AV-12 Pin=C045-1
+Added Pin To Net: NetName=AGND Pin=C045-2
+Added Pin To Net: NetName=AV-12 Pin=C046-1
+Added Pin To Net: NetName=AGND Pin=C046-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C100-1
+Added Pin To Net: NetName=AGND Pin=C100-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C101-1
+Added Pin To Net: NetName=AGND Pin=C101-2
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=AVDD3.3 Pin=C102-2
+Added Pin To Net: NetName=NetC103_1 Pin=C103-1
+Added Pin To Net: NetName=AGND Pin=C103-2
+Added Pin To Net: NetName=NetC103_1 Pin=C104-1
+Added Pin To Net: NetName=AGND Pin=C104-2
+Added Pin To Net: NetName=AGND Pin=C105-1
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=AGND Pin=C106-1
+Added Pin To Net: NetName=AD9833_OUT1 Pin=C106-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C110-1
+Added Pin To Net: NetName=AGND Pin=C110-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C111-1
+Added Pin To Net: NetName=AGND Pin=C111-2
+Added Pin To Net: NetName=NetC112_1 Pin=C112-1
+Added Pin To Net: NetName=AVDD3.3 Pin=C112-2
+Added Pin To Net: NetName=NetC113_1 Pin=C113-1
+Added Pin To Net: NetName=AGND Pin=C113-2
+Added Pin To Net: NetName=NetC113_1 Pin=C114-1
+Added Pin To Net: NetName=AGND Pin=C114-2
+Added Pin To Net: NetName=AGND Pin=C115-1
+Added Pin To Net: NetName=NetC115_2 Pin=C115-2
+Added Pin To Net: NetName=AGND Pin=C116-1
+Added Pin To Net: NetName=AD9833_OUT2 Pin=C116-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C120-1
+Added Pin To Net: NetName=AGND Pin=C120-2
+Added Pin To Net: NetName=AVDD3.3 Pin=C121-1
+Added Pin To Net: NetName=AGND Pin=C121-2
+Added Pin To Net: NetName=NetC122_1 Pin=C122-1
+Added Pin To Net: NetName=AVDD3.3 Pin=C122-2
+Added Pin To Net: NetName=NetC123_1 Pin=C123-1
+Added Pin To Net: NetName=AGND Pin=C123-2
+Added Pin To Net: NetName=NetC123_1 Pin=C124-1
+Added Pin To Net: NetName=AGND Pin=C124-2
+Added Pin To Net: NetName=AGND Pin=C125-1
+Added Pin To Net: NetName=NetC125_2 Pin=C125-2
+Added Pin To Net: NetName=AGND Pin=C126-1
+Added Pin To Net: NetName=AD9833_OUT3 Pin=C126-2
+Added Pin To Net: NetName=NetC300_1 Pin=C300-1
+Added Pin To Net: NetName=AGND Pin=C300-2
+Added Pin To Net: NetName=NetC300_1 Pin=C301-1
+Added Pin To Net: NetName=AGND Pin=C301-2
+Added Pin To Net: NetName=AGND Pin=C303-1
+Added Pin To Net: NetName=AV+12 Pin=C303-2
+Added Pin To Net: NetName=NetC304_1 Pin=C304-1
+Added Pin To Net: NetName=NetC304_2 Pin=C304-2
+Added Pin To Net: NetName=AGND Pin=C305-1
+Added Pin To Net: NetName=AV-12 Pin=C305-2
+Added Pin To Net: NetName=NetC310_1 Pin=C310-1
+Added Pin To Net: NetName=AGND Pin=C310-2
+Added Pin To Net: NetName=NetC310_1 Pin=C312-1
+Added Pin To Net: NetName=AGND Pin=C312-2
+Added Pin To Net: NetName=AGND Pin=C313-1
+Added Pin To Net: NetName=AV+12 Pin=C313-2
+Added Pin To Net: NetName=NetC314_1 Pin=C314-1
+Added Pin To Net: NetName=NetC314_2 Pin=C314-2
+Added Pin To Net: NetName=AGND Pin=C315-1
+Added Pin To Net: NetName=AV-12 Pin=C315-2
+Added Pin To Net: NetName=NetC320_1 Pin=C320-1
+Added Pin To Net: NetName=AGND Pin=C320-2
+Added Pin To Net: NetName=NetC320_1 Pin=C321-1
+Added Pin To Net: NetName=AGND Pin=C321-2
+Added Pin To Net: NetName=AGND Pin=C322-1
+Added Pin To Net: NetName=AV+12 Pin=C322-2
+Added Pin To Net: NetName=NetC323_1 Pin=C323-1
+Added Pin To Net: NetName=NetC323_2 Pin=C323-2
+Added Pin To Net: NetName=AGND Pin=C324-1
+Added Pin To Net: NetName=AV-12 Pin=C324-2
+Added Pin To Net: NetName=AGND Pin=CO10-1
+Added Pin To Net: NetName=NetCO10_2 Pin=CO10-2
+Added Pin To Net: NetName=NetCO11_1 Pin=CO11-1
+Added Pin To Net: NetName=NetCO11_2 Pin=CO11-2
+Added Pin To Net: NetName=AGND Pin=CO12-1
+Added Pin To Net: NetName=NetCO12_2 Pin=CO12-2
+Added Pin To Net: NetName=NetC304_2 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=AGND Pin=D02-1
+Added Pin To Net: NetName=NetC314_2 Pin=D2-1
+Added Pin To Net: NetName=NetD02_2 Pin=D02-2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetC323_2 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetDLED_1 Pin=DLED-1
+Added Pin To Net: NetName=AGND Pin=DLED-2
+Added Pin To Net: NetName=NetDQ_1 Pin=DQ-1
+Added Pin To Net: NetName=AGND Pin=DQ-2
+Added Pin To Net: NetName=NetJR1_1 Pin=JR1-1
+Added Pin To Net: NetName=AGND Pin=JR1-2
+Added Pin To Net: NetName=NetJR2_1 Pin=JR2-1
+Added Pin To Net: NetName=AGND Pin=JR2-2
+Added Pin To Net: NetName=NetJR3_1 Pin=JR3-1
+Added Pin To Net: NetName=AGND Pin=JR3-2
+Added Pin To Net: NetName=AVDD3.3 Pin=L01-1
+Added Pin To Net: NetName=NetD02_2 Pin=L01-2
+Added Pin To Net: NetName=AVDD3.3 Pin=L05-1
+Added Pin To Net: NetName=DVDD3.3 Pin=L05-2
+Added Pin To Net: NetName=NetC002_1 Pin=P0-1-0
+Added Pin To Net: NetName=NetJR1_1 Pin=P3-1-0
+Added Pin To Net: NetName=NetJR2_1 Pin=P3-2-0
+Added Pin To Net: NetName=NetJR3_1 Pin=P3-3-0
+Added Pin To Net: NetName=AD9833_OUT1 Pin=P10-1
+Added Pin To Net: NetName=AMP_IN1 Pin=P10-2
+Added Pin To Net: NetName=AD9833_OUT2 Pin=P11-1
+Added Pin To Net: NetName=AMP_IN2 Pin=P11-2
+Added Pin To Net: NetName=AD9833_OUT3 Pin=P12-1
+Added Pin To Net: NetName=AMP_IN3 Pin=P12-2
+Added Pin To Net: NetName=AMP_OUT1 Pin=P20-1
+Added Pin To Net: NetName=SOUR_IN1 Pin=P20-2
+Added Pin To Net: NetName=AMP_OUT2 Pin=P21-1
+Added Pin To Net: NetName=SOUR_IN2 Pin=P21-2
+Added Pin To Net: NetName=AMP_OUT3 Pin=P23-1
+Added Pin To Net: NetName=SOUR_IN3 Pin=P23-2
+Added Pin To Net: NetName=NetC314_1 Pin=P32-1
+Added Pin To Net: NetName=NetC314_2 Pin=P32-2
+Added Pin To Net: NetName=AGND Pin=P32-3
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=P-SIGNAL-TEST-1
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=P-SIGNAL-TEST-2
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=P-SIGNAL-TEST-3
+Added Pin To Net: NetName=AGND Pin=P-SIGNAL-TEST-4
+Added Pin To Net: NetName=FAMP_OUT Pin=POI1-1
+Added Pin To Net: NetName=FILTER_IN Pin=POI1-2
+Added Pin To Net: NetName=FILTER_OUT Pin=POI2-1
+Added Pin To Net: NetName=PART_IN Pin=POI2-2
+Added Pin To Net: NetName=NetC300_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC304_2 Pin=Q2-2
+Added Pin To Net: NetName=NetJR1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC310_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC314_2 Pin=Q4-2
+Added Pin To Net: NetName=NetJR2_1 Pin=Q4-3
+Added Pin To Net: NetName=NetC320_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC323_2 Pin=Q6-2
+Added Pin To Net: NetName=NetJR3_1 Pin=Q6-3
+Added Pin To Net: NetName=NetDQ_1 Pin=R0.0-1
+Added Pin To Net: NetName=AVDD5.0 Pin=R0.0-2
+Added Pin To Net: NetName=NetDLED_1 Pin=R0.1-1
+Added Pin To Net: NetName=IN_IOLED Pin=R0.1-2
+Added Pin To Net: NetName=NetC001_2 Pin=R01-1
+Added Pin To Net: NetName=NetC001_1 Pin=R01-2
+Added Pin To Net: NetName=AGND Pin=R02-1
+Added Pin To Net: NetName=NetC002_1 Pin=R02-2
+Added Pin To Net: NetName=NetC002_1 Pin=R03-1
+Added Pin To Net: NetName=NetR03_2 Pin=R03-2
+Added Pin To Net: NetName=AGND Pin=R04-1
+Added Pin To Net: NetName=NetC003_2 Pin=R04-2
+Added Pin To Net: NetName=NetC003_2 Pin=R05-1
+Added Pin To Net: NetName=NetR05_2 Pin=R05-2
+Added Pin To Net: NetName=AGND Pin=R07-1
+Added Pin To Net: NetName=NetC004_1 Pin=R07-2
+Added Pin To Net: NetName=NetC004_1 Pin=R08-1
+Added Pin To Net: NetName=NetR08_2 Pin=R08-2
+Added Pin To Net: NetName=AGND Pin=R09-1
+Added Pin To Net: NetName=NetC005_2 Pin=R09-2
+Added Pin To Net: NetName=NetC005_2 Pin=R010-1
+Added Pin To Net: NetName=NetC105_2 Pin=R10-1
+Added Pin To Net: NetName=AD9833_OUT1 Pin=R10-2
+Added Pin To Net: NetName=NetR010_2 Pin=R010-2
+Added Pin To Net: NetName=NetC115_2 Pin=R11-1
+Added Pin To Net: NetName=AD9833_OUT2 Pin=R11-2
+Added Pin To Net: NetName=AGND Pin=R012-1
+Added Pin To Net: NetName=NetC125_2 Pin=R12-1
+Added Pin To Net: NetName=AD9833_OUT3 Pin=R12-2
+Added Pin To Net: NetName=NetC007_1 Pin=R012-2
+Added Pin To Net: NetName=NetR013_1 Pin=R013-1
+Added Pin To Net: NetName=NetC006_1 Pin=R013-2
+Added Pin To Net: NetName=NetR013_1 Pin=R014-1
+Added Pin To Net: NetName=NetC009_2 Pin=R014-2
+Added Pin To Net: NetName=NetC008_1 Pin=R015-1
+Added Pin To Net: NetName=NetC009_2 Pin=R015-2
+Added Pin To Net: NetName=NetC009_1 Pin=R016-1
+Added Pin To Net: NetName=NetCO11_2 Pin=R016-2
+Added Pin To Net: NetName=NetCO11_2 Pin=R017-1
+Added Pin To Net: NetName=NetCO10_2 Pin=R017-2
+Added Pin To Net: NetName=NetCO11_1 Pin=R018-1
+Added Pin To Net: NetName=NetC013_2 Pin=R018-2
+Added Pin To Net: NetName=NetC013_2 Pin=R019-1
+Added Pin To Net: NetName=NetCO12_2 Pin=R019-2
+Added Pin To Net: NetName=PART_IN Pin=R020-1
+Added Pin To Net: NetName=NetC014_2 Pin=R020-2
+Added Pin To Net: NetName=NetC015_1 Pin=R021-1
+Added Pin To Net: NetName=NetC014_1 Pin=R021-2
+Added Pin To Net: NetName=NetR022_1 Pin=R022-1
+Added Pin To Net: NetName=NetC014_2 Pin=R022-2
+Added Pin To Net: NetName=NetC014_1 Pin=R024-1
+Added Pin To Net: NetName=NetC016_2 Pin=R024-2
+Added Pin To Net: NetName=NetR025_1 Pin=R025-1
+Added Pin To Net: NetName=NetC016_2 Pin=R025-2
+Added Pin To Net: NetName=NetC017_1 Pin=R027-1
+Added Pin To Net: NetName=NetC016_1 Pin=R027-2
+Added Pin To Net: NetName=NetR029_1 Pin=R029-1
+Added Pin To Net: NetName=NetC016_1 Pin=R029-2
+Added Pin To Net: NetName=PART_IN Pin=R033-1
+Added Pin To Net: NetName=NetC018_2 Pin=R033-2
+Added Pin To Net: NetName=NetR034_1 Pin=R034-1
+Added Pin To Net: NetName=NetC018_2 Pin=R034-2
+Added Pin To Net: NetName=NetC019_1 Pin=R036-1
+Added Pin To Net: NetName=NetC018_1 Pin=R036-2
+Added Pin To Net: NetName=NetC018_1 Pin=R037-1
+Added Pin To Net: NetName=NetC020_2 Pin=R037-2
+Added Pin To Net: NetName=NetR038_1 Pin=R038-1
+Added Pin To Net: NetName=NetC020_2 Pin=R038-2
+Added Pin To Net: NetName=NetC021_1 Pin=R040-1
+Added Pin To Net: NetName=NetC020_1 Pin=R040-2
+Added Pin To Net: NetName=NetR041_1 Pin=R041-1
+Added Pin To Net: NetName=NetC020_1 Pin=R041-2
+Added Pin To Net: NetName=PART_IN Pin=R046-1
+Added Pin To Net: NetName=NetC023_2 Pin=R046-2
+Added Pin To Net: NetName=NetR047_1 Pin=R047-1
+Added Pin To Net: NetName=NetC022_2 Pin=R047-2
+Added Pin To Net: NetName=NetC023_1 Pin=R049-1
+Added Pin To Net: NetName=NetC022_1 Pin=R049-2
+Added Pin To Net: NetName=NetC022_1 Pin=R050-1
+Added Pin To Net: NetName=NetC025_2 Pin=R050-2
+Added Pin To Net: NetName=NetR051_1 Pin=R051-1
+Added Pin To Net: NetName=NetC024_2 Pin=R051-2
+Added Pin To Net: NetName=NetC025_1 Pin=R053-1
+Added Pin To Net: NetName=NetC024_1 Pin=R053-2
+Added Pin To Net: NetName=NetR054_1 Pin=R054-1
+Added Pin To Net: NetName=NetC024_1 Pin=R054-2
+Added Pin To Net: NetName=NetC20_2 Pin=R200-1
+Added Pin To Net: NetName=NetR200_2 Pin=R200-2
+Added Pin To Net: NetName=AGND Pin=R201-1
+Added Pin To Net: NetName=NetC20_2 Pin=R201-2
+Added Pin To Net: NetName=AMP_IN1 Pin=R202-1
+Added Pin To Net: NetName=NetR202_2 Pin=R202-2
+Added Pin To Net: NetName=AGND Pin=R203-1
+Added Pin To Net: NetName=AMP_OUT1 Pin=R203-2
+Added Pin To Net: NetName=NetC22_2 Pin=R210-1
+Added Pin To Net: NetName=NetR210_2 Pin=R210-2
+Added Pin To Net: NetName=AGND Pin=R211-1
+Added Pin To Net: NetName=NetC22_2 Pin=R211-2
+Added Pin To Net: NetName=AMP_IN2 Pin=R212-1
+Added Pin To Net: NetName=NetR212_2 Pin=R212-2
+Added Pin To Net: NetName=AGND Pin=R213-1
+Added Pin To Net: NetName=AMP_OUT2 Pin=R213-2
+Added Pin To Net: NetName=NetC24_2 Pin=R220-1
+Added Pin To Net: NetName=NetR220_2 Pin=R220-2
+Added Pin To Net: NetName=AGND Pin=R221-1
+Added Pin To Net: NetName=NetC24_2 Pin=R221-2
+Added Pin To Net: NetName=AMP_IN3 Pin=R222-1
+Added Pin To Net: NetName=NetR222_2 Pin=R222-2
+Added Pin To Net: NetName=AGND Pin=R223-1
+Added Pin To Net: NetName=AMP_OUT3 Pin=R223-2
+Added Pin To Net: NetName=AV+15 Pin=R300-1
+Added Pin To Net: NetName=NetC300_1 Pin=R300-2
+Added Pin To Net: NetName=AV+15 Pin=R301-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R301-2
+Added Pin To Net: NetName=NetC304_1 Pin=R303-1
+Added Pin To Net: NetName=NetD1_2 Pin=R303-2
+Added Pin To Net: NetName=NetR304_1 Pin=R304-1
+Added Pin To Net: NetName=NetJR1_1 Pin=R304-2
+Added Pin To Net: NetName=SOUR_IN1 Pin=R305-1
+Added Pin To Net: NetName=NetR305_2 Pin=R305-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R306-1
+Added Pin To Net: NetName=NetR306_2 Pin=R306-2
+Added Pin To Net: NetName=AV+15 Pin=R310-1
+Added Pin To Net: NetName=NetC310_1 Pin=R310-2
+Added Pin To Net: NetName=AV+15 Pin=R311-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R311-2
+Added Pin To Net: NetName=NetR312_1 Pin=R312-1
+Added Pin To Net: NetName=NetJR2_1 Pin=R312-2
+Added Pin To Net: NetName=NetC314_1 Pin=R313-1
+Added Pin To Net: NetName=NetD2_2 Pin=R313-2
+Added Pin To Net: NetName=SOUR_IN2 Pin=R314-1
+Added Pin To Net: NetName=NetR314_2 Pin=R314-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R315-1
+Added Pin To Net: NetName=NetR315_2 Pin=R315-2
+Added Pin To Net: NetName=AV+15 Pin=R320-1
+Added Pin To Net: NetName=NetC320_1 Pin=R320-2
+Added Pin To Net: NetName=AV+15 Pin=R321-1
+Added Pin To Net: NetName=NetQ5_2 Pin=R321-2
+Added Pin To Net: NetName=NetR322_1 Pin=R322-1
+Added Pin To Net: NetName=NetJR3_1 Pin=R322-2
+Added Pin To Net: NetName=NetC323_1 Pin=R323-1
+Added Pin To Net: NetName=NetD3_2 Pin=R323-2
+Added Pin To Net: NetName=SOUR_IN3 Pin=R324-1
+Added Pin To Net: NetName=NetR324_2 Pin=R324-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R325-1
+Added Pin To Net: NetName=NetR325_2 Pin=R325-2
+Added Pin To Net: NetName=AGND Pin=RO-1
+Added Pin To Net: NetName=AGND Pin=RO-2
+Added Pin To Net: NetName=NetC003_1 Pin=TR06-1
+Added Pin To Net: NetName=NetC003_1 Pin=TR06-2
+Added Pin To Net: NetName=NetR05_2 Pin=TR06-3
+Added Pin To Net: NetName=FAMP_OUT Pin=TR011-1
+Added Pin To Net: NetName=FAMP_OUT Pin=TR011-2
+Added Pin To Net: NetName=NetR010_2 Pin=TR011-3
+Added Pin To Net: NetName=NetC20_1 Pin=TR20-1
+Added Pin To Net: NetName=NetC20_1 Pin=TR20-2
+Added Pin To Net: NetName=NetR200_2 Pin=TR20-3
+Added Pin To Net: NetName=NetC22_1 Pin=TR21-1
+Added Pin To Net: NetName=NetC22_1 Pin=TR21-2
+Added Pin To Net: NetName=NetR210_2 Pin=TR21-3
+Added Pin To Net: NetName=AGND Pin=TR023-1
+Added Pin To Net: NetName=NetC24_1 Pin=TR23-1
+Added Pin To Net: NetName=AGND Pin=TR023-2
+Added Pin To Net: NetName=NetC24_1 Pin=TR23-2
+Added Pin To Net: NetName=NetR022_1 Pin=TR023-3
+Added Pin To Net: NetName=NetR220_2 Pin=TR23-3
+Added Pin To Net: NetName=AGND Pin=TR026-1
+Added Pin To Net: NetName=AGND Pin=TR026-2
+Added Pin To Net: NetName=NetR025_1 Pin=TR026-3
+Added Pin To Net: NetName=AGND Pin=TR035-1
+Added Pin To Net: NetName=AGND Pin=TR035-2
+Added Pin To Net: NetName=NetR034_1 Pin=TR035-3
+Added Pin To Net: NetName=AGND Pin=TR039-1
+Added Pin To Net: NetName=AGND Pin=TR039-2
+Added Pin To Net: NetName=NetR038_1 Pin=TR039-3
+Added Pin To Net: NetName=AGND Pin=TR048-1
+Added Pin To Net: NetName=AGND Pin=TR048-2
+Added Pin To Net: NetName=NetR047_1 Pin=TR048-3
+Added Pin To Net: NetName=AGND Pin=TR052-1
+Added Pin To Net: NetName=AGND Pin=TR052-2
+Added Pin To Net: NetName=NetR051_1 Pin=TR052-3
+Added Pin To Net: NetName=NetC102_1 Pin=U1-1
+Added Pin To Net: NetName=AVDD3.3 Pin=U1-2
+Added Pin To Net: NetName=NetC001_2 Pin=U01-2
+Added Pin To Net: NetName=AGND Pin=U01-3
+Added Pin To Net: NetName=NetC103_1 Pin=U1-3
+Added Pin To Net: NetName=AGND Pin=U1-4
+Added Pin To Net: NetName=AV-12 Pin=U01-4
+Added Pin To Net: NetName=MCLK Pin=U1-5
+Added Pin To Net: NetName=IN_SIMO Pin=U1-6
+Added Pin To Net: NetName=NetC001_1 Pin=U01-6
+Added Pin To Net: NetName=AV+12 Pin=U01-7
+Added Pin To Net: NetName=IN_CLK Pin=U1-7
+Added Pin To Net: NetName=IN_CS1 Pin=U1-8
+Added Pin To Net: NetName=AGND Pin=U1-9
+Added Pin To Net: NetName=NetC105_2 Pin=U1-10
+Added Pin To Net: NetName=NetC112_1 Pin=U2-1
+Added Pin To Net: NetName=AVDD3.3 Pin=U2-2
+Added Pin To Net: NetName=NetC003_2 Pin=U02-2
+Added Pin To Net: NetName=NetC113_1 Pin=U2-3
+Added Pin To Net: NetName=NetR03_2 Pin=U02-3
+Added Pin To Net: NetName=AGND Pin=U2-4
+Added Pin To Net: NetName=AV-12 Pin=U02-4
+Added Pin To Net: NetName=MCLK Pin=U2-5
+Added Pin To Net: NetName=IN_SIMO Pin=U2-6
+Added Pin To Net: NetName=NetC003_1 Pin=U02-6
+Added Pin To Net: NetName=AV+12 Pin=U02-7
+Added Pin To Net: NetName=IN_CLK Pin=U2-7
+Added Pin To Net: NetName=IN_CS2 Pin=U2-8
+Added Pin To Net: NetName=AGND Pin=U2-9
+Added Pin To Net: NetName=NetC115_2 Pin=U2-10
+Added Pin To Net: NetName=NetC122_1 Pin=U3-1
+Added Pin To Net: NetName=AVDD3.3 Pin=U3-2
+Added Pin To Net: NetName=NetC005_2 Pin=U03-2
+Added Pin To Net: NetName=NetC123_1 Pin=U3-3
+Added Pin To Net: NetName=NetR08_2 Pin=U03-3
+Added Pin To Net: NetName=AGND Pin=U3-4
+Added Pin To Net: NetName=AV-12 Pin=U03-4
+Added Pin To Net: NetName=MCLK Pin=U3-5
+Added Pin To Net: NetName=FAMP_OUT Pin=U03-6
+Added Pin To Net: NetName=IN_SIMO Pin=U3-6
+Added Pin To Net: NetName=AV+12 Pin=U03-7
+Added Pin To Net: NetName=IN_CLK Pin=U3-7
+Added Pin To Net: NetName=IN_CS3 Pin=U3-8
+Added Pin To Net: NetName=AGND Pin=U3-9
+Added Pin To Net: NetName=NetC125_2 Pin=U3-10
+Added Pin To Net: NetName=AGND Pin=U4-2
+Added Pin To Net: NetName=NetR013_1 Pin=U04-2
+Added Pin To Net: NetName=MCLK Pin=U4-3
+Added Pin To Net: NetName=NetC007_1 Pin=U04-3
+Added Pin To Net: NetName=AV-12 Pin=U04-4
+Added Pin To Net: NetName=DVDD3.3 Pin=U4-4
+Added Pin To Net: NetName=NetR013_1 Pin=U04-6
+Added Pin To Net: NetName=AV+12 Pin=U04-7
+Added Pin To Net: NetName=NetC009_1 Pin=U05-2
+Added Pin To Net: NetName=NetC20_2 Pin=U5-2
+Added Pin To Net: NetName=NetC008_1 Pin=U05-3
+Added Pin To Net: NetName=NetR202_2 Pin=U5-3
+Added Pin To Net: NetName=AV-12 Pin=U05-4
+Added Pin To Net: NetName=AV-12 Pin=U5-4
+Added Pin To Net: NetName=NetC009_1 Pin=U05-6
+Added Pin To Net: NetName=NetC20_1 Pin=U5-6
+Added Pin To Net: NetName=AV+12 Pin=U05-7
+Added Pin To Net: NetName=AV+12 Pin=U5-7
+Added Pin To Net: NetName=NetC22_2 Pin=U6-2
+Added Pin To Net: NetName=NetCO11_1 Pin=U06-2
+Added Pin To Net: NetName=NetCO10_2 Pin=U06-3
+Added Pin To Net: NetName=NetR212_2 Pin=U6-3
+Added Pin To Net: NetName=AV-12 Pin=U06-4
+Added Pin To Net: NetName=AV-12 Pin=U6-4
+Added Pin To Net: NetName=NetC22_1 Pin=U6-6
+Added Pin To Net: NetName=NetCO11_1 Pin=U06-6
+Added Pin To Net: NetName=AV+12 Pin=U06-7
+Added Pin To Net: NetName=AV+12 Pin=U6-7
+Added Pin To Net: NetName=FILTER_OUT Pin=U07-2
+Added Pin To Net: NetName=NetC24_2 Pin=U7-2
+Added Pin To Net: NetName=NetCO12_2 Pin=U07-3
+Added Pin To Net: NetName=NetR222_2 Pin=U7-3
+Added Pin To Net: NetName=AV-12 Pin=U07-4
+Added Pin To Net: NetName=AV-12 Pin=U7-4
+Added Pin To Net: NetName=FILTER_OUT Pin=U07-6
+Added Pin To Net: NetName=NetC24_1 Pin=U7-6
+Added Pin To Net: NetName=AV+12 Pin=U07-7
+Added Pin To Net: NetName=AV+12 Pin=U7-7
+Added Pin To Net: NetName=NetC015_1 Pin=U08-2
+Added Pin To Net: NetName=NetR304_1 Pin=U8-2
+Added Pin To Net: NetName=AGND Pin=U08-3
+Added Pin To Net: NetName=NetR305_2 Pin=U8-3
+Added Pin To Net: NetName=AV-12 Pin=U08-4
+Added Pin To Net: NetName=AV-12 Pin=U8-4
+Added Pin To Net: NetName=NetC014_1 Pin=U08-6
+Added Pin To Net: NetName=NetR306_2 Pin=U8-6
+Added Pin To Net: NetName=AV+12 Pin=U08-7
+Added Pin To Net: NetName=AV+12 Pin=U8-7
+Added Pin To Net: NetName=NetC017_1 Pin=U09-2
+Added Pin To Net: NetName=NetR312_1 Pin=U9-2
+Added Pin To Net: NetName=AGND Pin=U09-3
+Added Pin To Net: NetName=NetR314_2 Pin=U9-3
+Added Pin To Net: NetName=AV-12 Pin=U09-4
+Added Pin To Net: NetName=AV-12 Pin=U9-4
+Added Pin To Net: NetName=NetC016_1 Pin=U09-6
+Added Pin To Net: NetName=NetR315_2 Pin=U9-6
+Added Pin To Net: NetName=AV+12 Pin=U09-7
+Added Pin To Net: NetName=AV+12 Pin=U9-7
+Added Pin To Net: NetName=NetR322_1 Pin=U10-2
+Added Pin To Net: NetName=NetR324_2 Pin=U10-3
+Added Pin To Net: NetName=AV-12 Pin=U10-4
+Added Pin To Net: NetName=NetR325_2 Pin=U10-6
+Added Pin To Net: NetName=AV+12 Pin=U10-7
+Added Pin To Net: NetName=NetC019_1 Pin=U011-2
+Added Pin To Net: NetName=AGND Pin=U011-3
+Added Pin To Net: NetName=AV-12 Pin=U011-4
+Added Pin To Net: NetName=NetC018_1 Pin=U011-6
+Added Pin To Net: NetName=AV+12 Pin=U011-7
+Added Pin To Net: NetName=NetC021_1 Pin=U012-2
+Added Pin To Net: NetName=AGND Pin=U012-3
+Added Pin To Net: NetName=AV-12 Pin=U012-4
+Added Pin To Net: NetName=NetC020_1 Pin=U012-6
+Added Pin To Net: NetName=AV+12 Pin=U012-7
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=U013-2
+Added Pin To Net: NetName=NetR041_1 Pin=U013-3
+Added Pin To Net: NetName=AV-12 Pin=U013-4
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=U013-6
+Added Pin To Net: NetName=AV+12 Pin=U013-7
+Added Pin To Net: NetName=NetC023_1 Pin=U014-2
+Added Pin To Net: NetName=AGND Pin=U014-3
+Added Pin To Net: NetName=AV-12 Pin=U014-4
+Added Pin To Net: NetName=NetC022_1 Pin=U014-6
+Added Pin To Net: NetName=AV+12 Pin=U014-7
+Added Pin To Net: NetName=NetC025_1 Pin=U015-2
+Added Pin To Net: NetName=AGND Pin=U015-3
+Added Pin To Net: NetName=AV-12 Pin=U015-4
+Added Pin To Net: NetName=NetC024_1 Pin=U015-6
+Added Pin To Net: NetName=AV+12 Pin=U015-7
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=U016-2
+Added Pin To Net: NetName=NetR054_1 Pin=U016-3
+Added Pin To Net: NetName=AV-12 Pin=U016-4
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=U016-6
+Added Pin To Net: NetName=AV+12 Pin=U016-7
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=UB010-2
+Added Pin To Net: NetName=NetR029_1 Pin=UB010-3
+Added Pin To Net: NetName=AV-12 Pin=UB010-4
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=UB010-6
+Added Pin To Net: NetName=AV+12 Pin=UB010-7
+Added Pin To Net: NetName=AVDD5.0 Pin=UP-1
+Added Pin To Net: NetName=NetD02_2 Pin=UP-2
+Added Pin To Net: NetName=AGND Pin=UP-3
+Added Pin To Net: NetName=AVDD3.3 Pin=UP-4
+Added Pin To Net: NetName=AGND Pin=UP-5
+Added Member To Class: ClassName=01DriverOccure Member=Component C01 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C001 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-0 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-1 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-2 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-3 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-4 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C2-5 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C02 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C002 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C03 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C003 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C04 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C004 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C05 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C005 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C06 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C006 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C07 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C007 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C08 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C008 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C09 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C009 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C010 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C10 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C011 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C11 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C012 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C13 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C013 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C014 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C015 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C016 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C017 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C018 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C019 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C20 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C020 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C21 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C021 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C22 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C022 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C23 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C023 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C024 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C25 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C025 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C026 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C027 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C028 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C029 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C030 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C031 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C032 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C033 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C034 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C035 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C036 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C037 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C038 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C039 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C040 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C041 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C042 Cap Pol1
+Added Member To Class: ClassName=01SignalDetect Member=Component C044 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C045 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C046 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C100 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C101 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C102 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C103 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C104 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C105 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C106 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C110 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C111 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C112 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C113 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C114 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C115 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C116 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C120 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C121 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C122 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C123 Cap2
+Added Member To Class: ClassName=01DriverOccure Member=Component C124 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C125 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C126 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C300 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C301 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C303 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C304 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C305 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C310 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C312 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C313 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C314 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C315 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C320 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C321 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C322 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C323 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component C324 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component CO10 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component CO11 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component CO12 Cap
+Added Member To Class: ClassName=01DriverOccure Member=Component D1 1N5817
+Added Member To Class: ClassName=01DriverOccure Member=Component D02 1N5824
+Added Member To Class: ClassName=01DriverOccure Member=Component D2 1N5817
+Added Member To Class: ClassName=01DriverOccure Member=Component D3 1N5817
+Added Member To Class: ClassName=01DriverOccure Member=Component DLED Alarm
+Added Member To Class: ClassName=01DriverOccure Member=Component DQ Alarm
+Added Member To Class: ClassName=01DriverOccure Member=Component JR1 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR2 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR3 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component L01 Inductor
+Added Member To Class: ClassName=01DriverOccure Member=Component L05 Inductor
+Added Member To Class: ClassName=01SignalDetect Member=Component P0-1 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P3-1 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P3-2 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P3-3 测试点
+Added Member To Class: ClassName=01DriverOccure Member=Component P10 跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P11 跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P12 跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P20 AMP跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P21 AMP跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P23 AMP跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component P32 接入LED19
+Added Member To Class: ClassName=01SignalDetect Member=Component P-SIGNAL-TEST 信号处理输出测试点
+Added Member To Class: ClassName=01SignalDetect Member=Component POI1 FAMP_OUT-FILTER_IN跳针
+Added Member To Class: ClassName=01SignalDetect Member=Component POI2 FILTER_OUT-PART_IN跳针
+Added Member To Class: ClassName=01DriverOccure Member=Component Q1 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q2 TIP122
+Added Member To Class: ClassName=01DriverOccure Member=Component Q3 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q4 TIP122
+Added Member To Class: ClassName=01DriverOccure Member=Component Q5 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q6 TIP122
+Added Member To Class: ClassName=01DriverOccure Member=Component R0.0 1K
+Added Member To Class: ClassName=01DriverOccure Member=Component R0.1 500
+Added Member To Class: ClassName=01SignalDetect Member=Component R01 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R02 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R03 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R04 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R05 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R07 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R08 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R09 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R10 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R010 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R11 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R12 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R012 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R013 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R014 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R015 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R016 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R017 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R018 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R019 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R020 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R021 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R022 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R024 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R025 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R027 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R029 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R033 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R034 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R036 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R037 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R038 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R040 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R041 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R046 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R047 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R049 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R050 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R051 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R053 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R054 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R200 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R201 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R202 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R203 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R210 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R211 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R212 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R213 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R220 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R221 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R222 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R223 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R300 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R301 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R303 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R304 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R305 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R306 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R310 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R311 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R312 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R313 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R314 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R315 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R320 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R321 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R322 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R323 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R324 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component R325 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component RO Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component TR06 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR011 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component TR20 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component TR21 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component TR23 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR023 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR026 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR035 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR039 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR048 RPot
+Added Member To Class: ClassName=01SignalDetect Member=Component TR052 RPot
+Added Member To Class: ClassName=01DriverOccure Member=Component U1 AD9833
+Added Member To Class: ClassName=01SignalDetect Member=Component U01 AD8671
+Added Member To Class: ClassName=01DriverOccure Member=Component U2 AD9833
+Added Member To Class: ClassName=01SignalDetect Member=Component U02 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U3 AD9833
+Added Member To Class: ClassName=01SignalDetect Member=Component U03 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U4 MCLK
+Added Member To Class: ClassName=01SignalDetect Member=Component U04 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U5 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U05 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U6 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U06 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U7 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U07 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U8 OPA07
+Added Member To Class: ClassName=01SignalDetect Member=Component U08 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U9 OPA07
+Added Member To Class: ClassName=01SignalDetect Member=Component U09 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component U10 OPA07
+Added Member To Class: ClassName=01SignalDetect Member=Component U011 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U012 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U013 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U014 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U015 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component U016 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component UB010 OP37EZ
+Added Member To Class: ClassName=01DriverOccure Member=Component UP LM2596S-3.3

@@ -52,32 +52,6 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
-[Document3]
-DocumentPath=WaterDetecter_Project2.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-
-[GeneratedDocument1]
-DocumentPath=AD9833_drive.PcbDoc.htm
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for WaterDetecter_Project2\Design Rule Check - AD9833_drive.html
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for WaterDetecter_Project2\WaterDetecter_Project2.BOM
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for WaterDetecter_Project2\WaterDetecter_Project2.CSV
-
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=-1

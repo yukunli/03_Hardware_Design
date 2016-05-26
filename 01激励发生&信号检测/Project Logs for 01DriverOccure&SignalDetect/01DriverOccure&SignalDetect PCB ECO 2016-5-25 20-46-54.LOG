@@ -1,0 +1,12 @@
+Added Component: Designator=C301(4*4.5 贴片电解电容)
+Added Component: Designator=C312(4*4.5 贴片电解电容)
+Added Component: Designator=C321(4*4.5 贴片电解电容)
+Added Pin To Net: NetName=NetC300_1 Pin=C301-1
+Added Pin To Net: NetName=AGND Pin=C301-2
+Added Pin To Net: NetName=NetC310_1 Pin=C312-1
+Added Pin To Net: NetName=AGND Pin=C312-2
+Added Pin To Net: NetName=NetC320_1 Pin=C321-1
+Added Pin To Net: NetName=AGND Pin=C321-2
+Added Member To Class: ClassName=01DriverOccure Member=Component C301 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C312 Cap Pol1
+Added Member To Class: ClassName=01DriverOccure Member=Component C321 Cap Pol1

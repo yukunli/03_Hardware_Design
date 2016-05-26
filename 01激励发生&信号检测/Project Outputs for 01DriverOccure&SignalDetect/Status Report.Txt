@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [01DriverOccure&SignalDetect.PrjPcb]
+   Generated File[01DriverOccure&SignalDetect.BOM]
+   Generated File[01DriverOccure&SignalDetect.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 20:00:17 On 2016/5/24

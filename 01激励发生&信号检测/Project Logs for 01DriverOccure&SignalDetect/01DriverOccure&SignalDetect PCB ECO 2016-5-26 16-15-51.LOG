@@ -1,0 +1,30 @@
+Added Component: Designator=Q1(TIP122-带卧式散热)
+Added Component: Designator=Q2(TIP122-带卧式散热)
+Added Component: Designator=Q3(TIP122-带卧式散热)
+Added Component: Designator=Q4(TIP122-带卧式散热)
+Added Component: Designator=Q5(TIP122-带卧式散热)
+Added Component: Designator=Q6(TIP122-带卧式散热)
+Added Pin To Net: NetName=NetC300_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC304_2 Pin=Q2-2
+Added Pin To Net: NetName=NetJR1_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC310_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC314_2 Pin=Q4-2
+Added Pin To Net: NetName=NetJR2_1 Pin=Q4-3
+Added Pin To Net: NetName=NetC320_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC323_2 Pin=Q6-2
+Added Pin To Net: NetName=NetJR3_1 Pin=Q6-3
+Added Member To Class: ClassName=01DriverOccure Member=Component Q1 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q2 TIP122
+Added Member To Class: ClassName=01DriverOccure Member=Component Q3 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q4 TIP122
+Added Member To Class: ClassName=01DriverOccure Member=Component Q5 IRF530
+Added Member To Class: ClassName=01DriverOccure Member=Component Q6 TIP122

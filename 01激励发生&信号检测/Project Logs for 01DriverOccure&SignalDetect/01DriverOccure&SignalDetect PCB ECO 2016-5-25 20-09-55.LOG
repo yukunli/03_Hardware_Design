@@ -1,0 +1,46 @@
+Added Component: Designator=LED17(HDR1X3H)
+Added Component: Designator=LED19(HDR1X3H)
+Added Component: Designator=LED22(HDR1X3H)
+Added Component: Designator=MCU-IO(HDR1X8H)
+Added Component: Designator=POWER-IN(5角弯式电源插座)
+Added Component: Designator=POWER-OUT(小立式电源接口)
+Added Component: Designator=SIGNAL-IN(HDR1X3H)
+Added Pin To Net: NetName=NetC304_1 Pin=LED17-1
+Added Pin To Net: NetName=NetC304_2 Pin=LED17-2
+Added Pin To Net: NetName=AGND Pin=LED17-3
+Added Pin To Net: NetName=NetC314_1 Pin=LED19-1
+Added Pin To Net: NetName=NetC314_2 Pin=LED19-2
+Added Pin To Net: NetName=AGND Pin=LED19-3
+Added Pin To Net: NetName=NetC323_1 Pin=LED22-1
+Added Pin To Net: NetName=NetC323_2 Pin=LED22-2
+Added Pin To Net: NetName=AGND Pin=LED22-3
+Added Pin To Net: NetName=IN_CS1 Pin=MCU-IO-1
+Added Pin To Net: NetName=IN_CS2 Pin=MCU-IO-2
+Added Pin To Net: NetName=IN_CS3 Pin=MCU-IO-3
+Added Pin To Net: NetName=IN_CLK Pin=MCU-IO-4
+Added Pin To Net: NetName=IN_SIMO Pin=MCU-IO-5
+Added Pin To Net: NetName=IN_IOLED Pin=MCU-IO-6
+Added Pin To Net: NetName=AGND Pin=MCU-IO-7
+Added Pin To Net: NetName=AGND Pin=MCU-IO-8
+Added Pin To Net: NetName=IN_+15V Pin=POWER-IN-1
+Added Pin To Net: NetName=IN_+12V Pin=POWER-IN-2
+Added Pin To Net: NetName=AV-12 Pin=POWER-IN-3
+Added Pin To Net: NetName=AVDD5.0 Pin=POWER-IN-4
+Added Pin To Net: NetName=AGND Pin=POWER-IN-5
+Added Pin To Net: NetName=AV+12 Pin=POWER-OUT-1
+Added Pin To Net: NetName=AV-12 Pin=POWER-OUT-2
+Added Pin To Net: NetName=AVDD5.0 Pin=POWER-OUT-3
+Added Pin To Net: NetName=AVDD3.3 Pin=POWER-OUT-4
+Added Pin To Net: NetName=DVDD3.3 Pin=POWER-OUT-5
+Added Pin To Net: NetName=AGND Pin=POWER-OUT-6
+Added Pin To Net: NetName=AGND Pin=POWER-OUT-7
+Added Pin To Net: NetName=AGND Pin=SIGNAL-IN-1
+Added Pin To Net: NetName=AGND Pin=SIGNAL-IN-2
+Added Pin To Net: NetName=NetC001_2 Pin=SIGNAL-IN-3
+Added Member To Class: ClassName=01DriverOccure Member=Component LED17 接入LED17
+Added Member To Class: ClassName=01DriverOccure Member=Component LED19 接入LED19
+Added Member To Class: ClassName=01DriverOccure Member=Component LED22 接入LED22
+Added Member To Class: ClassName=01DriverOccure Member=Component MCU-IO MCU信号输入
+Added Member To Class: ClassName=01DriverOccure Member=Component POWER-IN 电源输入
+Added Member To Class: ClassName=01DriverOccure Member=Component POWER-OUT 电源输出
+Added Member To Class: ClassName=01SignalDetect Member=Component SIGNAL-IN 探测器信号输入

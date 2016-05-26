@@ -1,0 +1,12 @@
+Added Component: Designator=JR1(RX70-0.25W)
+Added Component: Designator=JR2(RX70-0.25W)
+Added Component: Designator=JR3(RX70-0.25W)
+Added Pin To Net: NetName=NetJR1_1 Pin=JR1-1
+Added Pin To Net: NetName=AGND Pin=JR1-2
+Added Pin To Net: NetName=NetJR2_1 Pin=JR2-1
+Added Pin To Net: NetName=AGND Pin=JR2-2
+Added Pin To Net: NetName=NetJR3_1 Pin=JR3-1
+Added Pin To Net: NetName=AGND Pin=JR3-2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR1 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR2 Res2
+Added Member To Class: ClassName=01DriverOccure Member=Component JR3 Res2
