@@ -1,0 +1,8 @@
+Added Component: Designator=C049(CC0805)
+Added Component: Designator=C050(CC0805)
+Added Pin To Net: NetName=AV+12 Pin=C049-1
+Added Pin To Net: NetName=AGND Pin=C049-2
+Added Pin To Net: NetName=AV-12 Pin=C050-1
+Added Pin To Net: NetName=AGND Pin=C050-2
+Added Member To Class: ClassName=01SignalDetect Member=Component C049 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C050 Cap
