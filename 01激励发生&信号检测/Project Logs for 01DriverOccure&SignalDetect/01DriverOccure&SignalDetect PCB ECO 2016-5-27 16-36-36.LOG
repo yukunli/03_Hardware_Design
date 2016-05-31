@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=AV+15 Pin=C011-1
+Added Pin To Net: NetName=AV+15 Pin=C012-1
+Added Pin To Net: NetName=AV+15 Pin=POWER-IN-1
+Change Net Name : Old Net Name=AV+15 New Net Name=IN_+15V
