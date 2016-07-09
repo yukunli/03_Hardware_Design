@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=AGND Pin=C41-1
+Removed Pin From Net: NetName=ADREFIN Pin=C41-2
+Removed Pin From Net: NetName=AGND Pin=C42-1
+Removed Pin From Net: NetName=NetC42_2 Pin=C42-2
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Removed Pin From Net: NetName=AGND Pin=C44-1
+Removed Pin From Net: NetName=NetC44_2 Pin=C44-2
+Removed Pin From Net: NetName=NetC45_2 Pin=C45-2
+Removed Pin From Net: NetName=AV+12 Pin=P1-1
+Removed Pin From Net: NetName=AV-12 Pin=P1-2
+Removed Pin From Net: NetName=AVDD5.0 Pin=P1-3
+Removed Pin From Net: NetName=AVDD3.3 Pin=P1-4
+Removed Pin From Net: NetName=DVDD3.3 Pin=P1-5
+Removed Pin From Net: NetName=AGND Pin=P1-6
+Removed Pin From Net: NetName=DGND Pin=P1-7
+Removed Pin From Net: NetName=TMS Pin=P5-1
+Removed Pin From Net: NetName=TRST Pin=P5-2
+Removed Pin From Net: NetName=TDI Pin=P5-3
+Removed Pin From Net: NetName=DGND Pin=P5-4
+Removed Pin From Net: NetName=DVDD5.0 Pin=P5-5
+Removed Pin From Net: NetName=TDO Pin=P5-7
+Removed Pin From Net: NetName=DGND Pin=P5-8
+Removed Pin From Net: NetName=TCK Pin=P5-9
+Removed Pin From Net: NetName=DGND Pin=P5-10
+Removed Pin From Net: NetName=TCK Pin=P5-11
+Removed Pin From Net: NetName=DGND Pin=P5-12
+Removed Pin From Net: NetName=EMU0 Pin=P5-13
+Removed Pin From Net: NetName=EMU1 Pin=P5-14
+Removed Pin From Net: NetName=ADREFIN Pin=T1-0
+Removed Pin From Net: NetName=REFCAPC Pin=T2-0
+Removed Member From Class: ClassName=MCU_Control_Board Member=C41
+Removed Member From Class: ClassName=MCU_Control_Board Member=C42
+Removed Member From Class: ClassName=MCU_Control_Board Member=C43
+Removed Member From Class: ClassName=MCU_Control_Board Member=C44
+Removed Member From Class: ClassName=MCU_Control_Board Member=C45
+Removed Member From Class: ClassName=MCU_Control_Board Member=P1
+Removed Member From Class: ClassName=MCU_Control_Board Member=P5
+Removed Member From Class: ClassName=MCU_Control_Board Member=T1
+Removed Member From Class: ClassName=MCU_Control_Board Member=T2
+Change Component Footprint: Designator=C42 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C43 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C44 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C45 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=P5 Old Footprint=HDR7X2_A1 New Footprint=HDR1X2
+Change Component Comment : Designator=C45 Old Comment=Cap New Comment=0.1u
+Change Component Comment : Designator=C44 Old Comment=Cap New Comment=0.1u
+Change Component Comment : Designator=C43 Old Comment=Cap New Comment=0.1u
+Change Component Comment : Designator=C42 Old Comment=Cap New Comment=0.1u
+Change Component Comment : Designator=C41 Old Comment=Cap New Comment=100u/25v
+Change Component Comment : Designator=P5 Old Comment=JTAG New Comment=COLD
+Change Component Designator: OldDesignator=P2 NewDesignator=P2.1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2.2
+Change Component Designator: OldDesignator=P4 NewDesignator=P2.3
+Added Component: Designator=C46(0805)
+Added Component: Designator=C47(0805)
+Added Component: Designator=P1.1(HDR1X3H)
+Added Component: Designator=P1.2(HDR1X3H)
+Added Component: Designator=P1.3(HDR1X3H)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=Q42(TIP122)
+Added Component: Designator=R18(0805)
+Added Component: Designator=R41(AXIAL-0.4)
+Added Component: Designator=R42(AXIAL-0.4)
+Added Component: Designator=R43(AXIAL-0.4)
+Added Component: Designator=R44(AXIAL-0.4)
+Added Component: Designator=R45(AXIAL-0.4)
+Added Component: Designator=R46(AXIAL-0.4)
+Added Component: Designator=R47(AXIAL-0.4)
+Added Component: Designator=R48(AXIAL-0.4)
+Added Component: Designator=R49(AXIAL-0.4)
+Added Component: Designator=R50(AXIAL-0.4)
+Added Component: Designator=R51(AXIAL-0.4)
+Added Component: Designator=U3(SO-8-N)
+Added Component: Designator=U5(SO-8-N)
+Added Component: Designator=U10(TO-92)
+Added Pin To Net: NetName=AGND Pin=C41-1
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C42-1
+Added Pin To Net: NetName=AGND Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=AGND Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=AGND Pin=C44-1
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=AGND Pin=C45-1
+Added Pin To Net: NetName=AV+12 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=AGND Pin=C46-1
+Added Pin To Net: NetName=AV+12 Pin=C46-2
+Added Pin To Net: NetName=AGND Pin=C47-1
+Added Pin To Net: NetName=AV+12 Pin=C47-2
+Added Pin To Net: NetName=AV+12 Pin=P1.1-1
+Added Pin To Net: NetName=AV-12 Pin=P1.1-2
+Added Pin To Net: NetName=AVDD5.0 Pin=P1.1-3
+Added Pin To Net: NetName=AVDD3.3 Pin=P1.2-1
+Added Pin To Net: NetName=DVDD3.3 Pin=P1.2-2
+Added Pin To Net: NetName=AGND Pin=P1.2-3
+Added Pin To Net: NetName=DGND Pin=P1.3-1
+Added Pin To Net: NetName=DGND Pin=P1.3-2
+Added Pin To Net: NetName=DGND Pin=P1.3-3
+Added Pin To Net: NetName=PWM1A Pin=P4-1
+Added Pin To Net: NetName=TMS Pin=P5-1
+Added Pin To Net: NetName=AGND Pin=P5-2
+Added Pin To Net: NetName=TRST Pin=P5-2
+Added Pin To Net: NetName=DGND Pin=P?-3
+Added Pin To Net: NetName=DGND Pin=P?-3
+Added Pin To Net: NetName=AV+12 Pin=Q42-2
+Added Pin To Net: NetName=DVDD3.3 Pin=R41-2
+Added Pin To Net: NetName=AV+12 Pin=R42-2
+Added Pin To Net: NetName=AGND Pin=R47-1
+Added Pin To Net: NetName=AV+12 Pin=U3-7
+Added Pin To Net: NetName=AGND Pin=U5-4
+Added Pin To Net: NetName=AV+12 Pin=U5-7
+Added Pin To Net: NetName=AGND Pin=U10-1
+Change Net Name : Old Net Name=ADCS New Net Name=?
+Added Pin To Net: NetName=GPIOM Pin=P?-2
+Added Net: Name=GPIOM
+Added Pin To Net: NetName=GPIOX Pin=P?-1
+Added Net: Name=GPIOX
+Added Pin To Net: NetName=GPIOY Pin=P?-2
+Added Net: Name=GPIOY
+Added Pin To Net: NetName=GPIOZ Pin=P?-1
+Added Net: Name=GPIOZ
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=C42-1
+Added Pin To Net: NetName=NetC41_1 Pin=R42-1
+Added Pin To Net: NetName=NetC41_1 Pin=R43-1
+Added Pin To Net: NetName=NetC41_1 Pin=R44-1
+Added Pin To Net: NetName=NetC41_1 Pin=U10-2
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=R45-2
+Added Pin To Net: NetName=NetC44_1 Pin=R46-1
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R18-2
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetQ42_3 Pin=Q42-3
+Added Net: Name=NetQ42_3
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=R45-1
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=R48-1
+Added Pin To Net: NetName=NetR47_2 Pin=U5-2
+Added Net: Name=NetR47_2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=U3-3
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=U3-6
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=U3-2
+Added Net: Name=NetR51_2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P1.1 电源输入1
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P1.2 电源输入2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P1.3 电源输入3
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P? Header 3
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P? Header 3

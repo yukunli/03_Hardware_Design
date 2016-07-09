@@ -1,93 +1,50 @@
 Protel Design System Design Rule Check
 PCB File : E:\01_Master_project\Water_Detection_Project\03_Hardware_Design\01–≈∫≈‘§¥¶¿Ì∞Â\01SignalDetect.PcbDoc
-Date     : 2016/5/31
-Time     : 10:20:13
+Date     : 2016/6/20
+Time     : 16:47:44
 
-Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('Top Layer-b')),(All)
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('Top Layer-r')),(All)
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=8mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silkscreen Over Component Pads (Clearance=5mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C030-2 (3642.598,2812mil) And Pad C044-2 (4140,3382.598mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad U012-3 (2500,2390mil) And Track on layer Bottom Layer (3440.001,2400mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad U014-3 (3930,1810mil) And Pad R012-1 (4000,960mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad R09-1 (3520,520mil) And Pad R012-1 (4000,960mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad U014-3 (3930,1810mil) And Track on layer Bottom Layer (4840.001,1805mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad U08-3 (1020,1810mil) And Pad C039-2 (1081.214,1054mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad CO12-1 (417.402,955.721mil) And Via (1081.214,955.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Top Layer (2620,140mil) And Pad R07-1 (3000,405mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad CO10-1 (1577.402,955.721mil) And Pad R02-1 (1600,405mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad °¿12V-3 (4470,3340mil) And Pad C041-2 (4860,3480mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (3440.001,2400mil) And Pad C036-2 (3642.598,2713mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (2000.001,2400mil) And Pad C029-2 (2202.598,2713mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad TR011-1 (3440.001,2300mil) And Track on layer Bottom Layer (3440.064,1800mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad P-SIGNAL-TEST-4 (2960,3420mil) And Pad C044-2 (4140,3382.598mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad R012-1 (4000,960mil) And Pad C033-2 (4342.598,400mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C028-2 (698.598,2713mil) And Pad U09-3 (1020,2390mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad R07-1 (3000,405mil) And Pad R09-1 (3520,520mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad R07-1 (3000,405mil) And Pad C008-2 (3077.402,955.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C032-2 (382.598,400mil) And Pad CO12-1 (417.402,955.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad U08-3 (1020,1810mil) And Pad U09-3 (1020,2390mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (2000.001,2400mil) And Pad U012-3 (2500,2390mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (2000.001,1800mil) And Pad TR09-1 (2000.001,2300mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (3440.001,2400mil) And Pad U015-3 (3930,2390mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (3440.064,1800mil) And Pad U014-3 (3930,1810mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Via (1081.214,955.721mil) And Pad CO10-1 (1577.402,955.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Bottom Layer (4840.001,1805mil) And Pad TR013-1 (4840.001,2300mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Track on layer Top Layer (2010.001,1810mil) And Pad U011-3 (2500,1810mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad U01-3 (1020,590mil) And Via (1081.214,955.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C031-2 (2262.598,301.721mil) And Pad SIGNAL-IN-1 (2520,140mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad R04-1 (1860,405mil) And Pad C037-2 (2262.598,391.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C048-2 (698.766,1805mil) And Pad U08-3 (1020,1810mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C046-2 (2782.598,955.721mil) And Pad C008-2 (3077.402,955.721mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad R02-1 (1600,405mil) And Pad R04-1 (1860,405mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C049-2 (4817.402,1505mil) And Track on layer Bottom Layer (4840.001,1705mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C042-1 (4280,3370mil) And Pad °¿12V-3 (4470,3340mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C041-2 (4860,3480mil) And Pad C038-2 (5000,3457.57mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C044-2 (4140,3382.598mil) And Pad C042-1 (4280,3370mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C050-2 (4817.402,1400mil) And Pad C049-2 (4817.402,1505mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C027-2 (4342.598,300mil) And Pad C033-2 (4342.598,400mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C029-2 (2202.598,2713mil) And Pad C035-2 (2202.598,2812mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C036-2 (3642.598,2713mil) And Pad C030-2 (3642.598,2812mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Via (1081.214,955.721mil) And Pad C039-2 (1081.214,1054mil)
-   Violation between Un-Routed Net Constraint: Net AGND Between Pad C026-2 (382.598,315mil) And Pad C032-2 (382.598,400mil)
-Rule Violations :43
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('Top Layer-r')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNamedPolygon('Top Layer-b')),(All)
 Rule Violations :0
 
 
-Violations Detected : 43
-Time Elapsed        : 00:00:03
+Violations Detected : 0
+Time Elapsed        : 00:00:11
