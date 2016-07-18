@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SCITXDB Pin=P8-1
+Removed Pin From Net: NetName=SCIRXDB Pin=P8-2
+Removed Pin From Net: NetName=DGND Pin=P8-3
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X3 New Footprint=HDR2X4
+Change Component Comment : Designator=P8 Old Comment=Header 3 New Comment=Header 4X2
+Added Pin To Net: NetName=AGND Pin=C41-2
+Added Pin To Net: NetName=DGND Pin=P8-1
+Added Pin To Net: NetName=SCITXDB Pin=P8-3
+Added Pin To Net: NetName=SCIRXDB Pin=P8-5
+Added Pin To Net: NetName=DVDD3.3 Pin=P8-7

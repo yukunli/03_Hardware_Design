@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Pcold Old Footprint=HDR1X2 New Footprint=HDR1X3H
+Change Component Comment : Designator=D5 Old Comment=Diode BAS21 New Comment=IN5817
+Added Pin To Net: NetName=AGND Pin=C41-2

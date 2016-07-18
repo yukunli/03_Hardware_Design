@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X2 New Footprint=HDR2X7
+Change Component Comment : Designator=P5 Old Comment=COLD New Comment=JTAG
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=AGND Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C42-1
+Added Pin To Net: NetName=AGND Pin=C44-1
+Added Pin To Net: NetName=AV+12 Pin=P1.1-1
+Added Pin To Net: NetName=AV-12 Pin=P1.1-2
+Added Pin To Net: NetName=AVDD5.0 Pin=P1.1-3
+Added Pin To Net: NetName=DVDD3.3 Pin=P1.2-2
+Added Pin To Net: NetName=AGND Pin=P1.2-3
+Added Pin To Net: NetName=TMS Pin=P5-1
+Added Pin To Net: NetName=TDI Pin=P5-3
+Added Pin To Net: NetName=DGND Pin=P5-4
+Added Pin To Net: NetName=DVDD5.0 Pin=P5-5
+Added Pin To Net: NetName=TDO Pin=P5-7
+Added Pin To Net: NetName=DGND Pin=P5-8
+Added Pin To Net: NetName=TCK Pin=P5-9
+Added Pin To Net: NetName=DGND Pin=P5-10
+Added Pin To Net: NetName=TCK Pin=P5-11
+Added Pin To Net: NetName=DGND Pin=P5-12
+Added Pin To Net: NetName=EMU0 Pin=P5-13
+Added Pin To Net: NetName=EMU1 Pin=P5-14
+Added Pin To Net: NetName=DGND Pin=P7-3
+Added Pin To Net: NetName=AVDD3.3 Pin=P1.2-1
+Added Net: Name=AVDD3.3
+Added Pin To Net: NetName=AX1 Pin=P9-1
+Added Net: Name=AX1
+Added Pin To Net: NetName=AX2 Pin=P9-2
+Added Net: Name=AX2
+Added Pin To Net: NetName=AX3 Pin=P7-1
+Added Net: Name=AX3
+Added Pin To Net: NetName=AX4 Pin=P7-2
+Added Net: Name=AX4
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P9 Header 3

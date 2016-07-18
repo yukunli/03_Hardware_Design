@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=J1 Old Footprint=PLUG80 New Footprint=PLUG80-STM
+Change Component Footprint: Designator=J2 Old Footprint=PLUG80 New Footprint=PLUG80-STM
+Added Component: Designator=P1.1(HDR1X3H)
+Added Component: Designator=P1.2(HDR1X3H)
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=P?(HDR1X3)
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=DGND Pin=P?-3
+Added Pin To Net: NetName=DGND Pin=P?-3
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C41 100u/25v
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C42 0.1u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C43 0.1u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C44 0.1u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C45 0.1u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P1.1 电源输入1
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P1.2 电源输入2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P5 COLD
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P? Header 3
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P? Header 3

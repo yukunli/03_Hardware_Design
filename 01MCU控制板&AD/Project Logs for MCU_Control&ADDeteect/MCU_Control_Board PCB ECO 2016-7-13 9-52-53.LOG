@@ -1,0 +1,6 @@
+Added Component: Designator=DB9(DB9)
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=NetDB9_2 Pin=DB9-2
+Added Pin To Net: NetName=NetDB9_3 Pin=DB9-3
+Added Pin To Net: NetName=DGND Pin=DB9-5
+Added Member To Class: ClassName=MCU_Control_Board Member=Component DB9

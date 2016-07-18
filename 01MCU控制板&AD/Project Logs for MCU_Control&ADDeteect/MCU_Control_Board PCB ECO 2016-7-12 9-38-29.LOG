@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=C20 Old Footprint=4*4.5 贴片电解电容 New Footprint=0805-2
+Change Component Footprint: Designator=C22 Old Footprint=4*4.5 贴片电解电容 New Footprint=0805-2
+Change Component Designator: OldDesignator=C20 NewDesignator=C2.0
+Change Component Designator: OldDesignator=C21 NewDesignator=C2.1
+Change Component Designator: OldDesignator=C22 NewDesignator=C2.2
+Change Component Designator: OldDesignator=C23 NewDesignator=C2.3
+Added Component: Designator=C20(4*4.5 贴片电解电容)
+Added Component: Designator=C21(0805-2)
+Added Component: Designator=C22(4*4.5 贴片电解电容)
+Added Component: Designator=C23(0805-2)
+Added Pin To Net: NetName=AGND Pin=C20-1
+Added Pin To Net: NetName=AV+12 Pin=C20-2
+Added Pin To Net: NetName=AGND Pin=C21-1
+Added Pin To Net: NetName=AV+12 Pin=C21-2
+Added Pin To Net: NetName=AGND Pin=C22-1
+Added Pin To Net: NetName=AV-12 Pin=C22-2
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=AV-12 Pin=C23-2
+Added Pin To Net: NetName=AGND Pin=C41-2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C20 Cap
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C21 Cap
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C22 Cap
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C23 Cap

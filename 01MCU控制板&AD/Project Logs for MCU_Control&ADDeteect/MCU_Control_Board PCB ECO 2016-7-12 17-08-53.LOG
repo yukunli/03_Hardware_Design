@@ -1,0 +1,75 @@
+Added Component: Designator=C51(4*4.5 贴片电解电容)
+Added Component: Designator=C52(0805)
+Added Component: Designator=C53(0805)
+Added Component: Designator=C54(0805)
+Added Component: Designator=D5(DIODE-SMA)
+Added Component: Designator=L5(1206)
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=Pcold(HDR1X2)
+Added Component: Designator=PIN12V(HDR1X2)
+Added Component: Designator=Q5(TIP122-带卧式散热)
+Added Component: Designator=R50(0805)
+Added Component: Designator=R51(0805)
+Added Component: Designator=R52(1206)
+Added Component: Designator=TR5(VR5)
+Added Component: Designator=U9(SOIC8)
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=PWM1A Pin=P4-1
+Added Pin To Net: NetName=DVDD3.3 Pin=R50-2
+Added Pin To Net: NetName=IN+12V Pin=C51-1
+Added Pin To Net: NetName=IN+12V Pin=C52-1
+Added Pin To Net: NetName=IN+12V Pin=PIN12V-1
+Added Pin To Net: NetName=IN+12V Pin=Q5-2
+Added Pin To Net: NetName=IN+12V Pin=TR5-1
+Added Net: Name=IN+12V
+Added Pin To Net: NetName=INAGND Pin=C51-2
+Added Pin To Net: NetName=INAGND Pin=C52-2
+Added Pin To Net: NetName=INAGND Pin=C53-2
+Added Pin To Net: NetName=INAGND Pin=C54-2
+Added Pin To Net: NetName=INAGND Pin=Pcold-2
+Added Pin To Net: NetName=INAGND Pin=PIN12V-2
+Added Pin To Net: NetName=INAGND Pin=TR5-3
+Added Pin To Net: NetName=INAGND Pin=U9-5
+Added Net: Name=INAGND
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=NetC53_1 Pin=C54-1
+Added Pin To Net: NetName=NetC53_1 Pin=D5-1
+Added Pin To Net: NetName=NetC53_1 Pin=L5-2
+Added Pin To Net: NetName=NetC53_1 Pin=R52-1
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=NetD5_3 Pin=L5-1
+Added Pin To Net: NetName=NetD5_3 Pin=Q5-3
+Added Net: Name=NetD5_3
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=U9-3
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetPcold_1 Pin=Pcold-1
+Added Pin To Net: NetName=NetPcold_1 Pin=R52-2
+Added Net: Name=NetPcold_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=U9-6
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=U9-2
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=TR5-2
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=U9-8
+Added Net: Name=NetR51_2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C51 22u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C52 0.1u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C53 0.1u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C54 10u
+Added Member To Class: ClassName=MCU_Control_Board Member=Component D5 Diode BAS21
+Added Member To Class: ClassName=MCU_Control_Board Member=Component L5 Inductor
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P4 PWM
+Added Member To Class: ClassName=MCU_Control_Board Member=Component Pcold clod
+Added Member To Class: ClassName=MCU_Control_Board Member=Component PIN12V clod
+Added Member To Class: ClassName=MCU_Control_Board Member=Component Q5 IRF530-N
+Added Member To Class: ClassName=MCU_Control_Board Member=Component R50 Res2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component R51 Res2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component R52 Res2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component TR5 RPot
+Added Member To Class: ClassName=MCU_Control_Board Member=Component U9 6N137

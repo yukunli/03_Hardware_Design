@@ -1,0 +1,9 @@
+Added Component: Designator=C46(0805-2)
+Added Component: Designator=C47(0805-2)
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=AGND Pin=C46-1
+Added Pin To Net: NetName=DVDD3.3 Pin=C46-2
+Added Pin To Net: NetName=AGND Pin=C47-1
+Added Pin To Net: NetName=DVDD3.3 Pin=C47-2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C46 Cap
+Added Member To Class: ClassName=MCU_Control_Board Member=Component C47 Cap

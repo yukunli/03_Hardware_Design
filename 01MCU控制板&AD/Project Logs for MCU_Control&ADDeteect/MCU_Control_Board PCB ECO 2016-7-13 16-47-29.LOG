@@ -1,0 +1,5 @@
+Added Component: Designator=BigFan(HDR1X2)
+Added Pin To Net: NetName=IN+12V Pin=BigFan-1
+Added Pin To Net: NetName=INAGND Pin=BigFan-2
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component BigFan Fan

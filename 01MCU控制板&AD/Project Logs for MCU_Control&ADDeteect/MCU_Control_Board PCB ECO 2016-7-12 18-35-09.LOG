@@ -1,0 +1,8 @@
+Added Component: Designator=U9(SOIC8)
+Added Pin To Net: NetName=AGND Pin=C41-2
+Added Pin To Net: NetName=NetR50_1 Pin=U9-2
+Added Pin To Net: NetName=NetP4_2 Pin=U9-3
+Added Pin To Net: NetName=INAGND Pin=U9-5
+Added Pin To Net: NetName=NetQ5_1 Pin=U9-6
+Added Pin To Net: NetName=NetR51_2 Pin=U9-8
+Added Member To Class: ClassName=MCU_Control_Board Member=Component U9 6N137

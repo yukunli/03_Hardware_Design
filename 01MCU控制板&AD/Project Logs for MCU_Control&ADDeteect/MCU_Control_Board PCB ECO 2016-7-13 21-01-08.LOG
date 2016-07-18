@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=C40-1
+Removed Pin From Net: NetName=AGND Pin=C41-2
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=C41-1
+Added Net: Name=NetC40_1

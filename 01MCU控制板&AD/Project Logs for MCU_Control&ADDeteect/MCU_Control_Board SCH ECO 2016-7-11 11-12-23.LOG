@@ -1,0 +1,32 @@
+Remove Pin=C42-1 From Net=AGND
+Remove Pin=C44-1 From Net=AGND
+Remove Pin=P1.1-1 From Net=AV+12
+Remove Pin=P1.1-2 From Net=AV-12
+Remove Pin=P1.1-3 From Net=AVDD5.0
+Remove Pin=P1.2-1 From Net=AVDD3.3
+Remove Pin=P1.2-2 From Net=DVDD3.3
+Remove Pin=P1.2-3 From Net=AGND
+Remove Pin=P5-1 From Net=TMS
+Remove Pin=P5-3 From Net=TDI
+Remove Pin=P5-7 From Net=TDO
+Remove Pin=P5-13 From Net=EMU0
+Remove Pin=P5-14 From Net=EMU1
+Remove Pin=P?-1 From Net=GPIOX
+Remove Pin=P?-1 From Net=GPIOZ
+Remove Pin=P?-2 From Net=GPIOM
+Remove Pin=P?-2 From Net=GPIOY
+Change Component Footprint: Designator=C42 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C43 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C44 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C45 Old Footprint=0805-2 New Footprint=0805
+Change Component Footprint: Designator=C2 Old Footprint=0805-2 New Footprint=CC0805
+Change Component Footprint: Designator=C3 Old Footprint=0805-2 New Footprint=CC0805
+Change Component Footprint: Designator=C4 Old Footprint=0805-2 New Footprint=CC0805
+Change Component Footprint: Designator=P5 Old Footprint=HDR7X2_A1 New Footprint=HDR1X2
+Change Component Comment: Designator=C45 Old Comment=Cap New Comment=0.1u
+Change Component Comment: Designator=C44 Old Comment=Cap New Comment=0.1u
+Change Component Comment: Designator=C43 Old Comment=Cap New Comment=0.1u
+Change Component Comment: Designator=C42 Old Comment=Cap New Comment=0.1u
+Change Component Comment: Designator=C41 Old Comment=Cap New Comment=100u/25v
+Change Component Comment: Designator=P5 Old Comment=JTAG New Comment=COLD
+Change Pin Designator/Name:  Old Designator=C41-1 Old Name=1 New Designator =2 New Name=2

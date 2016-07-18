@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X3H New Footprint=HDR1X3
+Change Component Footprint: Designator=Ps Old Footprint=HDR1X3H New Footprint=HDR1X3
+Added Pin To Net: NetName=AGND Pin=C41-2

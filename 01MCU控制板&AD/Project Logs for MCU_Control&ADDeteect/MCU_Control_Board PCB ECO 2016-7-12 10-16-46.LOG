@@ -1,0 +1,5 @@
+Added Component: Designator=L0(1206)
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Pin To Net: NetName=DGND Pin=L0-1
+Added Pin To Net: NetName=AGND Pin=L0-2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component L0 Inductor

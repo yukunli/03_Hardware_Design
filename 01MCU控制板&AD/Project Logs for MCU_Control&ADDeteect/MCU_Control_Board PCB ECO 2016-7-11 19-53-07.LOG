@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X3 New Footprint=HDR1X3H
+Added Pin To Net: NetName=ADREFIN Pin=C41-2
+Added Member To Class: ClassName=MCU_Control_Board Member=Component P7 Header 3
