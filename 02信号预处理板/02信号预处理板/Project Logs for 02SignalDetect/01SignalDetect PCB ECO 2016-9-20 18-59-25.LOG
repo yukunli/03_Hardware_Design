@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=AGND Pin=C008-2
+Removed Pin From Net: NetName=AGND Pin=CO10-1
+Removed Pin From Net: NetName=AGND Pin=CO12-1
+Removed Pin From Net: NetName=AGND Pin=P-SIGNAL-TEST-4
+Removed Pin From Net: NetName=AGND Pin=R02-1
+Removed Pin From Net: NetName=AGND Pin=R04-1
+Removed Pin From Net: NetName=AGND Pin=R07-1
+Removed Pin From Net: NetName=AGND Pin=R09-1
+Removed Pin From Net: NetName=AGND Pin=R012-1
+Removed Pin From Net: NetName=AGND Pin=SIGNAL-IN-1
+Removed Pin From Net: NetName=AGND Pin=SIGNAL-IN-2
+Removed Pin From Net: NetName=AGND Pin=TR08-1
+Removed Pin From Net: NetName=AGND Pin=TR08-2
+Removed Pin From Net: NetName=AGND Pin=TR09-1
+Removed Pin From Net: NetName=AGND Pin=TR09-2
+Removed Pin From Net: NetName=AGND Pin=TR010-1
+Removed Pin From Net: NetName=AGND Pin=TR010-2
+Removed Pin From Net: NetName=AGND Pin=TR011-1
+Removed Pin From Net: NetName=AGND Pin=TR011-2
+Removed Pin From Net: NetName=AGND Pin=TR012-1
+Removed Pin From Net: NetName=AGND Pin=TR012-2
+Removed Pin From Net: NetName=AGND Pin=TR013-1
+Removed Pin From Net: NetName=AGND Pin=TR013-2
+Removed Pin From Net: NetName=AGND Pin=U01-3
+Removed Pin From Net: NetName=AGND Pin=U08-3
+Removed Pin From Net: NetName=AGND Pin=U09-3
+Removed Pin From Net: NetName=AGND Pin=U011-3
+Removed Pin From Net: NetName=AGND Pin=U012-3
+Removed Pin From Net: NetName=AGND Pin=U014-3
+Removed Pin From Net: NetName=AGND Pin=U015-3
+Added Component: Designator=P0-1(Text_PAD)
+Added Component: Designator=RGND(0805)
+Added Pin To Net: NetName=NetC002_1 Pin=P0-1-0
+Added Pin To Net: NetName=AGND Pin=RGND-2
+Change Net Name : Old Net Name=AGND New Net Name=GROUPGND
+Added Pin To Net: NetName=AGND Pin=C008-2
+Added Pin To Net: NetName=AGND Pin=CO10-1
+Added Pin To Net: NetName=AGND Pin=CO12-1
+Added Pin To Net: NetName=AGND Pin=P-SIGNAL-TEST-4
+Added Pin To Net: NetName=AGND Pin=R02-1
+Added Pin To Net: NetName=AGND Pin=R04-1
+Added Pin To Net: NetName=AGND Pin=R07-1
+Added Pin To Net: NetName=AGND Pin=R09-1
+Added Pin To Net: NetName=AGND Pin=R012-1
+Added Pin To Net: NetName=AGND Pin=RGND-1
+Added Pin To Net: NetName=AGND Pin=SIGNAL-IN-1
+Added Pin To Net: NetName=AGND Pin=SIGNAL-IN-2
+Added Pin To Net: NetName=AGND Pin=TR08-1
+Added Pin To Net: NetName=AGND Pin=TR08-2
+Added Pin To Net: NetName=AGND Pin=TR09-1
+Added Pin To Net: NetName=AGND Pin=TR09-2
+Added Pin To Net: NetName=AGND Pin=TR010-1
+Added Pin To Net: NetName=AGND Pin=TR010-2
+Added Pin To Net: NetName=AGND Pin=TR011-1
+Added Pin To Net: NetName=AGND Pin=TR011-2
+Added Pin To Net: NetName=AGND Pin=TR012-1
+Added Pin To Net: NetName=AGND Pin=TR012-2
+Added Pin To Net: NetName=AGND Pin=TR013-1
+Added Pin To Net: NetName=AGND Pin=TR013-2
+Added Pin To Net: NetName=AGND Pin=U01-3
+Added Pin To Net: NetName=AGND Pin=U08-3
+Added Pin To Net: NetName=AGND Pin=U09-3
+Added Pin To Net: NetName=AGND Pin=U011-3
+Added Pin To Net: NetName=AGND Pin=U012-3
+Added Pin To Net: NetName=AGND Pin=U014-3
+Added Pin To Net: NetName=AGND Pin=U015-3
+Added Net: Name=AGND
+Added Member To Class: ClassName=01SignalDetect Member=Component P0-1 ≤‚ ‘µ„
+Added Member To Class: ClassName=01SignalDetect Member=Component RGND Res2

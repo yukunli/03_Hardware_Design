@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=C060-2
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=C061-2
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=C062-2
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=R054-1
+Removed Pin From Net: NetName=AGND Pin=R054-2
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=R055-1
+Removed Pin From Net: NetName=AGND Pin=R055-2
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=R056-1
+Removed Pin From Net: NetName=AGND Pin=R056-2
+Removed Pin From Net: NetName=NetC003_1 Pin=TR06-1
+Removed Pin From Net: NetName=NetC003_1 Pin=TR06-2
+Removed Pin From Net: NetName=NetR05_2 Pin=TR06-3
+Removed Pin From Net: NetName=FAMP_OUT Pin=TR07-1
+Removed Pin From Net: NetName=FAMP_OUT Pin=TR07-2
+Removed Pin From Net: NetName=NetR010_2 Pin=TR07-3
+Removed Member From Class: ClassName=01SignalDetect Member=C060
+Removed Member From Class: ClassName=01SignalDetect Member=C060
+Removed Member From Class: ClassName=01SignalDetect Member=C061
+Removed Member From Class: ClassName=01SignalDetect Member=C061
+Removed Member From Class: ClassName=01SignalDetect Member=C062
+Removed Member From Class: ClassName=01SignalDetect Member=C062
+Removed Member From Class: ClassName=01SignalDetect Member=R054
+Removed Member From Class: ClassName=01SignalDetect Member=R054
+Removed Member From Class: ClassName=01SignalDetect Member=R055
+Removed Member From Class: ClassName=01SignalDetect Member=R055
+Removed Member From Class: ClassName=01SignalDetect Member=R056
+Removed Member From Class: ClassName=01SignalDetect Member=R056
+Removed Member From Class: ClassName=01SignalDetect Member=TR06
+Removed Member From Class: ClassName=01SignalDetect Member=TR06
+Removed Member From Class: ClassName=01SignalDetect Member=TR07
+Removed Member From Class: ClassName=01SignalDetect Member=TR07
+Added Component: Designator=C051(CC0805)
+Added Component: Designator=C052(CC0805)
+Added Component: Designator=C053(CC0805)
+Added Component: Designator=C054(CC0805)
+Added Component: Designator=C055(CC0805)
+Added Component: Designator=C056(CC0805)
+Added Component: Designator=C126(CC0805)
+Added Component: Designator=C127(CC0805)
+Added Component: Designator=C128(CC0805)
+Added Component: Designator=C129(CC0805)
+Added Component: Designator=C130(CC0805)
+Added Component: Designator=C131(CC0805)
+Added Component: Designator=C147(CC0805)
+Added Component: Designator=C149(CC0805)
+Added Component: Designator=C151(CC0805)
+Added Component: Designator=C153(CC0805)
+Added Component: Designator=C156(CC0805)
+Added Component: Designator=C-32(CC0805)
+Added Component: Designator=C-33(CC0805)
+Added Component: Designator=C-34(CC0805)
+Added Component: Designator=C-35(CC0805)
+Added Component: Designator=C-36(CC0805)
+Added Component: Designator=C-37(CC0805)
+Added Component: Designator=C-48(CC0805)
+Added Component: Designator=C-50(CC0805)
+Added Component: Designator=C-52(CC0805)
+Added Component: Designator=C-54(CC0805)
+Added Component: Designator=C-57(CC0805)
+Added Component: Designator=R06(0805)
+Added Component: Designator=R011(0805)
+Added Component: Designator=RL17(0805)
+Added Component: Designator=RL19(0805)
+Added Component: Designator=RL22(0805)
+Added Pin To Net: NetName=AV+12 Pin=C051-1
+Added Pin To Net: NetName=AGND Pin=C051-2
+Added Pin To Net: NetName=AV-12 Pin=C052-1
+Added Pin To Net: NetName=AGND Pin=C052-2
+Added Pin To Net: NetName=AV+12 Pin=C053-1
+Added Pin To Net: NetName=AGND Pin=C053-2
+Added Pin To Net: NetName=AV-12 Pin=C054-1
+Added Pin To Net: NetName=AGND Pin=C054-2
+Added Pin To Net: NetName=AV+12 Pin=C055-1
+Added Pin To Net: NetName=AGND Pin=C055-2
+Added Pin To Net: NetName=AV-12 Pin=C056-1
+Added Pin To Net: NetName=AGND Pin=C056-2
+Added Pin To Net: NetName=AV+12 Pin=C126-1
+Added Pin To Net: NetName=AGND Pin=C126-2
+Added Pin To Net: NetName=AV+12 Pin=C127-1
+Added Pin To Net: NetName=AGND Pin=C127-2
+Added Pin To Net: NetName=AV+12 Pin=C128-1
+Added Pin To Net: NetName=AGND Pin=C128-2
+Added Pin To Net: NetName=AV+12 Pin=C129-1
+Added Pin To Net: NetName=AGND Pin=C129-2
+Added Pin To Net: NetName=AV+12 Pin=C130-1
+Added Pin To Net: NetName=AGND Pin=C130-2
+Added Pin To Net: NetName=AV+12 Pin=C131-1
+Added Pin To Net: NetName=AGND Pin=C131-2
+Added Pin To Net: NetName=AV+12 Pin=C147-1
+Added Pin To Net: NetName=AGND Pin=C147-2
+Added Pin To Net: NetName=AV+12 Pin=C149-1
+Added Pin To Net: NetName=AGND Pin=C149-2
+Added Pin To Net: NetName=AV+12 Pin=C151-1
+Added Pin To Net: NetName=AGND Pin=C151-2
+Added Pin To Net: NetName=AV+12 Pin=C153-1
+Added Pin To Net: NetName=AGND Pin=C153-2
+Added Pin To Net: NetName=AV+12 Pin=C156-1
+Added Pin To Net: NetName=AGND Pin=C156-2
+Added Pin To Net: NetName=AV-12 Pin=C-32-1
+Added Pin To Net: NetName=AGND Pin=C-32-2
+Added Pin To Net: NetName=AV-12 Pin=C-33-1
+Added Pin To Net: NetName=AGND Pin=C-33-2
+Added Pin To Net: NetName=AV-12 Pin=C-34-1
+Added Pin To Net: NetName=AGND Pin=C-34-2
+Added Pin To Net: NetName=AV-12 Pin=C-35-1
+Added Pin To Net: NetName=AGND Pin=C-35-2
+Added Pin To Net: NetName=AV-12 Pin=C-36-1
+Added Pin To Net: NetName=AGND Pin=C-36-2
+Added Pin To Net: NetName=AV-12 Pin=C-37-1
+Added Pin To Net: NetName=AGND Pin=C-37-2
+Added Pin To Net: NetName=AV-12 Pin=C-48-1
+Added Pin To Net: NetName=AGND Pin=C-48-2
+Added Pin To Net: NetName=AV-12 Pin=C-50-1
+Added Pin To Net: NetName=AGND Pin=C-50-2
+Added Pin To Net: NetName=AV-12 Pin=C-52-1
+Added Pin To Net: NetName=AGND Pin=C-52-2
+Added Pin To Net: NetName=AV-12 Pin=C-54-1
+Added Pin To Net: NetName=AGND Pin=C-54-2
+Added Pin To Net: NetName=AV-12 Pin=C-57-1
+Added Pin To Net: NetName=AGND Pin=C-57-2
+Added Pin To Net: NetName=NetR05_2 Pin=R06-1
+Added Pin To Net: NetName=NetC003_1 Pin=R06-2
+Added Pin To Net: NetName=NetR010_2 Pin=R011-1
+Added Pin To Net: NetName=FAMP_OUT Pin=R011-2
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=RL17-1
+Added Pin To Net: NetName=NetC016_1 Pin=RL17-2
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=RL19-1
+Added Pin To Net: NetName=NetC020_1 Pin=RL19-2
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=RL22-1
+Added Pin To Net: NetName=NetC024_1 Pin=RL22-2
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=UB09-2
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=UB09-6
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=UB12-2
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=UB12-6
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=UB15-2
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=UB15-6
+Added Member To Class: ClassName=01SignalDetect Member=Component C051 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C052 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C053 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C054 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C055 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C056 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C126 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C127 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C128 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C129 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C130 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C131 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C147 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C149 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C151 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C153 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C156 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-32 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-33 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-34 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-35 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-36 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-37 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-48 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-50 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-52 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-54 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C-57 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component R06 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R011 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component RL17 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component RL19 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component RL22 Res2

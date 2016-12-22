@@ -1,0 +1,8 @@
+Added Component: Designator=R06(0805)
+Added Component: Designator=R011(0805)
+Added Pin To Net: NetName=NetR05_2 Pin=R06-1
+Added Pin To Net: NetName=NetC003_1 Pin=R06-2
+Added Pin To Net: NetName=NetR010_2 Pin=R011-1
+Added Pin To Net: NetName=FAMP_OUT Pin=R011-2
+Added Member To Class: ClassName=01SignalDetect Member=Component R06 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R011 Res2

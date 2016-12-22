@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AGND Pin=R29-1
+Removed Pin From Net: NetName=ADCLO Pin=R29-2
+Removed Member From Class: ClassName=DSP_min_system Member=R29

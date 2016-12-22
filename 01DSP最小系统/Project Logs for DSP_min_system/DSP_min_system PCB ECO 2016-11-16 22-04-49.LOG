@@ -1,0 +1,4 @@
+Added Component: Designator=D44(1206)
+Added Pin To Net: NetName=DVDD1.9 Pin=D44-1
+Added Pin To Net: NetName=DVDD3.3 Pin=D44-2
+Added Member To Class: ClassName=DSP_min_system Member=Component D44 IN5817

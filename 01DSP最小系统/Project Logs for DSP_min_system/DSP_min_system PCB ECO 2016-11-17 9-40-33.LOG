@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=DVDD3.3 Pin=C1-1
+Removed Pin From Net: NetName=DGND Pin=C1-2
+Removed Pin From Net: NetName=SDAA Pin=U21-74
+Removed Pin From Net: NetName=XZCS6 Pin=U21-141
+Removed Member From Class: ClassName=DSP_min_system Member=C1
+Change Component Footprint: Designator=C22 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C24 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C26 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C28 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C29 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C30 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C31 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C32 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C33 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C34 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C35 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C36 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C37 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C38 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C39 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C48 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C210 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C211 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C212 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C213 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C214 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C215 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C216 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C217 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C218 Old Footprint=CC0805 New Footprint=0603-1
+Change Component Footprint: Designator=C411 Old Footprint=CC0805 New Footprint=0603-1
+Added Pin To Net: NetName=SDAA Pin=U21-25
+Added Pin To Net: NetName=XA3 Pin=U21-156
+Added Pin To Net: NetName=XZCS6 Pin=U21-161
+Change Net Name : Old Net Name=SDAA New Net Name=HOLD
+Change Net Name : Old Net Name=XZCS6 New Net Name=XA6

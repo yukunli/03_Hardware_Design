@@ -1,0 +1,39 @@
+Bill of Material for 01SignalDetect.PrjPcb
+On 2016/6/21 at 8:51:47
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ AD8671              SO-8-N           1    U01                          Low-Noise, Precision Operational Amplifier 
+ Cap Pol1            4*4.5 贴片电解电容    2    C041, C042                   Polarized Capacitor (Radial) 
+ Cap                 CC0805          38    C001, C002, C003, C004, C005 Capacitor            
+                                           C006, C007, C008, C009, C013
+                                           C026, C027, C028, C029, C030
+                                           C031, C032, C033, C034, C035
+                                           C036, C037, C038, C039, C040
+                                           C044, C045, C046, C047, C048
+                                           C049, C050, C060, C061, C062
+                                           CO10, CO11, CO12
+ Cap                 校正电容        12    C014, C015, C016, C017, C018 Capacitor            
+                                           C019, C020, C021, C022, C023
+                                           C024, C025
+ FAMP_OUT-FILTER_IN跳针 HDR1X2           1    POI1                         Header, 2-Pin        
+ FILTER_OUT-PART_IN跳针 HDR1X2           1    POI2                         Header, 2-Pin        
+ OP37EZ              SO-8-N          15    U02, U03, U04, U05, U06, U07 Low-Noise, Precision, High-Speed Operational Amplifier (Avcl >= 5) 
+                                           U08, U09, U011, U012, U014
+                                           U015, UB09, UB12, UB15
+ Res2                0805            40    R02, R03, R04, R05, R07, R08 Resistor             
+                                           R09, R010, R012, R013, R014
+                                           R015, R016, R017, R018, R019
+                                           R020, R021, R022, R024, R025
+                                           R026, R027, R033, R034, R035
+                                           R037, R038, R039, R040, R046
+                                           R047, R048, R050, R051, R052
+                                           R053, R054, R055, R056
+ Res2                AXIAL-0.4        1    R01                          Resistor             
+ RPot                VR5              8    TR06, TR07, TR08, TR09, TR010 Potentiometer        
+                                           TR011, TR012, TR013
+ 测试点              Text_PAD         1    P0-1                                              
+ 探测器信号输入      HDR1X3H          1    SIGNAL-IN                    Header, 3-Pin, Right Angle 
+ 信号处理板连接      HDR1X3H          1    ±12V                        Header, 3-Pin, Right Angle 
+ 信号处理输出        HDR1X3H          1    P_SIGNALOUT                  Header, 3-Pin, Right Angle 
+ 信号处理输出测试点  HDR1X4           1    P-SIGNAL-TEST                Header, 4-Pin        

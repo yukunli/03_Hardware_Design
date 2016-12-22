@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=C016-1
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=C020-1
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=C024-1
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=R027-2
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=R040-2
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=R053-2
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=U09-6
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=U012-6
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=U015-6
+Added Component: Designator=C047(CC0805)
+Added Component: Designator=C048(CC0805)
+Added Component: Designator=R026(0805)
+Added Component: Designator=R039(0805)
+Added Component: Designator=R054(0805)
+Added Component: Designator=UB09(SO-8-N)
+Added Component: Designator=UB12(SO-8-N)
+Added Component: Designator=UB15(SO-8-N)
+Added Pin To Net: NetName=AV+12 Pin=C047-1
+Added Pin To Net: NetName=AGND Pin=C047-2
+Added Pin To Net: NetName=AV-12 Pin=C048-1
+Added Pin To Net: NetName=AGND Pin=C048-2
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=UB09-2
+Added Pin To Net: NetName=AV-12 Pin=UB09-4
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=UB09-6
+Added Pin To Net: NetName=AV+12 Pin=UB09-7
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=UB12-2
+Added Pin To Net: NetName=AV-12 Pin=UB12-4
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=UB12-6
+Added Pin To Net: NetName=AV+12 Pin=UB12-7
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=UB15-2
+Added Pin To Net: NetName=AV-12 Pin=UB15-4
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=UB15-6
+Added Pin To Net: NetName=AV+12 Pin=UB15-7
+Added Pin To Net: NetName=NetC016_1 Pin=C016-1
+Added Pin To Net: NetName=NetC016_1 Pin=R026-2
+Added Pin To Net: NetName=NetC016_1 Pin=R027-2
+Added Pin To Net: NetName=NetC016_1 Pin=U09-6
+Added Net: Name=NetC016_1
+Added Pin To Net: NetName=NetC020_1 Pin=C020-1
+Added Pin To Net: NetName=NetC020_1 Pin=R039-2
+Added Pin To Net: NetName=NetC020_1 Pin=R040-2
+Added Pin To Net: NetName=NetC020_1 Pin=U012-6
+Added Net: Name=NetC020_1
+Added Pin To Net: NetName=NetC024_1 Pin=C024-1
+Added Pin To Net: NetName=NetC024_1 Pin=R053-2
+Added Pin To Net: NetName=NetC024_1 Pin=R054-2
+Added Pin To Net: NetName=NetC024_1 Pin=U015-6
+Added Net: Name=NetC024_1
+Added Pin To Net: NetName=NetR026_1 Pin=R026-1
+Added Pin To Net: NetName=NetR026_1 Pin=UB09-3
+Added Net: Name=NetR026_1
+Added Pin To Net: NetName=NetR039_1 Pin=R039-1
+Added Pin To Net: NetName=NetR039_1 Pin=UB12-3
+Added Net: Name=NetR039_1
+Added Pin To Net: NetName=NetR054_1 Pin=R054-1
+Added Pin To Net: NetName=NetR054_1 Pin=UB15-3
+Added Net: Name=NetR054_1
+Added Member To Class: ClassName=01SignalDetect Member=Component C047 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C048 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component R026 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R039 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R054 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component UB09 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component UB12 OP37EZ
+Added Member To Class: ClassName=01SignalDetect Member=Component UB15 OP37EZ

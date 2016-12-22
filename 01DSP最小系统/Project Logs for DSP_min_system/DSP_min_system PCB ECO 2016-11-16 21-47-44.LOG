@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DVDD3.3 Pin=R21-1
+Removed Pin From Net: NetName=XA15 Pin=R21-2
+Removed Pin From Net: NetName=DVDD3.3 Pin=R23-1
+Removed Pin From Net: NetName=XA14 Pin=R23-2
+Removed Pin From Net: NetName=DVDD3.3 Pin=R25-1
+Removed Pin From Net: NetName=XA13 Pin=R25-2
+Removed Pin From Net: NetName=DVDD3.3 Pin=R27-1
+Removed Pin From Net: NetName=XA12 Pin=R27-2
+Removed Member From Class: ClassName=DSP_min_system Member=R21
+Removed Member From Class: ClassName=DSP_min_system Member=R23
+Removed Member From Class: ClassName=DSP_min_system Member=R25
+Removed Member From Class: ClassName=DSP_min_system Member=R27

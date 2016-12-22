@@ -1,0 +1,4 @@
+Added Component: Designator=Y21(¾§Õñ)
+Added Pin To Net: NetName=NetC02_2 Pin=Y21-1
+Added Pin To Net: NetName=NetC01_2 Pin=Y21-2
+Added Member To Class: ClassName=DSP_min_system Member=Component Y21 30M

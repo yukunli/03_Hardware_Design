@@ -1,0 +1,16 @@
+Added Component: Designator=U42(TSOP28)
+Added Pin To Net: NetName=DGND Pin=U42-3
+Added Pin To Net: NetName=DGND Pin=U42-4
+Added Pin To Net: NetName=DVDD5.0 Pin=U42-5
+Added Pin To Net: NetName=DVDD5.0 Pin=U42-6
+Added Pin To Net: NetName=DGND Pin=U42-9
+Added Pin To Net: NetName=DGND Pin=U42-10
+Added Pin To Net: NetName=DVDD5.0 Pin=U42-11
+Added Pin To Net: NetName=DVDD5.0 Pin=U42-12
+Added Pin To Net: NetName=DVDD3.3 Pin=U42-17
+Added Pin To Net: NetName=DVDD3.3 Pin=U42-18
+Added Pin To Net: NetName=DSP_RST Pin=U42-22
+Added Pin To Net: NetName=DVDD1.9 Pin=U42-23
+Added Pin To Net: NetName=DVDD1.9 Pin=U42-24
+Added Pin To Net: NetName=NetR42_2 Pin=U42-25
+Added Member To Class: ClassName=DSP_min_system Member=Component U42 PS767D301

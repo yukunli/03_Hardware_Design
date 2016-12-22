@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [01SignalDetect.PrjPcb]
+   Generated File[01SignalDetect.BOM]
+   Generated File[01SignalDetect.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 8:51:47 On 2016/6/21

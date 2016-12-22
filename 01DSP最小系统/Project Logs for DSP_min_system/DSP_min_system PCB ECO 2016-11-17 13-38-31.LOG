@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AGND Pin=C219-2
+Removed Pin From Net: NetName=AGND Pin=C220-2
+Removed Pin From Net: NetName=AGND Pin=R210-1
+Removed Member From Class: ClassName=DSP_min_system Member=C219
+Removed Member From Class: ClassName=DSP_min_system Member=C220
+Removed Member From Class: ClassName=DSP_min_system Member=R210

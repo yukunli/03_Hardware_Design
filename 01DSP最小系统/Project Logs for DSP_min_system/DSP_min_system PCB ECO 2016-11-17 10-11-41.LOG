@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DVDD3.3 Pin=C35-2
+Added Pin To Net: NetName=DVDD1.9 Pin=C35-2

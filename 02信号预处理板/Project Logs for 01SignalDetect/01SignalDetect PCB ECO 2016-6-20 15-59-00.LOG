@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=UB09-2
+Removed Pin From Net: NetName=SIGNAL_LED17 Pin=UB09-6
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=UB12-2
+Removed Pin From Net: NetName=SIGNAL_LED19 Pin=UB12-6
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=UB15-2
+Removed Pin From Net: NetName=SIGNAL_LED22 Pin=UB15-6
+Change Component Footprint: Designator=R01 Old Footprint=0805 New Footprint=AXIAL-0.4
+Added Component: Designator=C060(CC0805)
+Added Component: Designator=C061(CC0805)
+Added Component: Designator=C062(0805)
+Added Component: Designator=R054(0805)
+Added Component: Designator=R055(0805)
+Added Component: Designator=R056(0805)
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=C060-2
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=C061-2
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=C062-2
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=R054-1
+Added Pin To Net: NetName=AGND Pin=R054-2
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=R055-1
+Added Pin To Net: NetName=AGND Pin=R055-2
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=R056-1
+Added Pin To Net: NetName=AGND Pin=R056-2
+Added Pin To Net: NetName=NetC060_1 Pin=C060-1
+Added Pin To Net: NetName=NetC060_1 Pin=UB09-2
+Added Pin To Net: NetName=NetC060_1 Pin=UB09-6
+Added Net: Name=NetC060_1
+Added Pin To Net: NetName=NetC061_1 Pin=C061-1
+Added Pin To Net: NetName=NetC061_1 Pin=UB12-2
+Added Pin To Net: NetName=NetC061_1 Pin=UB12-6
+Added Net: Name=NetC061_1
+Added Pin To Net: NetName=NetC062_1 Pin=C062-1
+Added Pin To Net: NetName=NetC062_1 Pin=UB15-2
+Added Pin To Net: NetName=NetC062_1 Pin=UB15-6
+Added Net: Name=NetC062_1
+Added Member To Class: ClassName=01SignalDetect Member=Component C060 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C061 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component C062 Cap
+Added Member To Class: ClassName=01SignalDetect Member=Component R054 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R055 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R056 Res2

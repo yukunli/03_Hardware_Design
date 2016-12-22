@@ -1,0 +1,20 @@
+Added Component: Designator=R06(0805)
+Added Component: Designator=R011(0805)
+Added Component: Designator=RL17(0805)
+Added Component: Designator=RL19(0805)
+Added Component: Designator=RL22(0805)
+Added Pin To Net: NetName=NetR05_2 Pin=R06-1
+Added Pin To Net: NetName=NetC003_1 Pin=R06-2
+Added Pin To Net: NetName=NetR010_2 Pin=R011-1
+Added Pin To Net: NetName=FAMP_OUT Pin=R011-2
+Added Pin To Net: NetName=SIGNAL_LED17 Pin=RL17-1
+Added Pin To Net: NetName=NetC016_1 Pin=RL17-2
+Added Pin To Net: NetName=SIGNAL_LED19 Pin=RL19-1
+Added Pin To Net: NetName=NetC020_1 Pin=RL19-2
+Added Pin To Net: NetName=SIGNAL_LED22 Pin=RL22-1
+Added Pin To Net: NetName=NetC024_1 Pin=RL22-2
+Added Member To Class: ClassName=01SignalDetect Member=Component R06 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component R011 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component RL17 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component RL19 Res2
+Added Member To Class: ClassName=01SignalDetect Member=Component RL22 Res2
